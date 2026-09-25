@@ -19,11 +19,13 @@ HERE=Path(__file__).resolve().parent
 def write(name,value):
     (HERE/name).write_text(json.dumps(value,indent=2,sort_keys=True)+'\n')
 
-def validate():
+def validate(require_all_texts=True):
     targets={t['id']:t for t in json.loads((HERE/'targets.json').read_text())}
     records={p.stem:json.loads(p.read_text()) for p in (HERE/'records').glob('*.json')}
     scans={p.stem:json.loads(p.read_text()) for p in (HERE/'scans').glob('*.json')}
     differences=[];digests=set();statuses=Counter();scanner_errors=[]
+    transport=json.loads((HERE/'transport.json').read_text()) if (HERE/'transport.json').exists() else {}
+    allowed_omissions=set(transport.get('omitted_text_digests',[])) if not require_all_texts else set()
     if set(targets)!=set(records):differences.append('Target/record identifier sets differ')
     for key,record in records.items():
         target=targets.get(key)
@@ -34,6 +36,7 @@ def validate():
         for item in record['files']+record['context_files']:
             if item['status']!='ok':continue
             path=HERE/'texts'/item['sha256']
+            if not path.exists() and item['sha256'] in allowed_omissions:continue
             if not path.exists() or hashlib.sha256(path.read_bytes()).hexdigest()!=item['sha256']:
                 differences.append(f'{key}: missing or changed text {item["path"]}')
         digests.update(f['sha256'] for f in record['files'] if f['status']=='ok')
@@ -47,16 +50,35 @@ def validate():
         scanner_error_digests=scanner_errors,
         missing_pinned_commits=sum(not t['target_commit'] for t in targets.values()),
         collection_failures=[key for key,r in records.items() if r['status'] in {'error','timeout'}],
+        transported_texts_only=not require_all_texts,omitted_text_digests=len(allowed_omissions),
         note='Integrity verification is not a copyright ownership determination. Context comparisons and ownership review occur after collection.')
-    write('verification.json',result)
+    write('verification.json' if require_all_texts else 'local_verification.json',result)
     return result
 
 def export(destination):
     destination.mkdir(parents=True,exist_ok=True)
+    # Codex rejected a full raw-text/tree export with diff_too_large. Preserve
+    # every record and scan; return source text for positive findings and changed
+    # Plugin context. Other pinned blobs remain recoverable by recorded Git/SHA.
+    selected=set()
+    for path in (HERE/'scans').glob('*.json'):
+        scan=json.loads(path.read_text())
+        if scan['statements'] or any(match['is_text'] for match in scan['matches']):selected.add(scan['sha256'])
+    for path in (HERE/'records').glob('*.json'):
+        record=json.loads(path.read_text())
+        if not record.get('baseline_root_context_unchanged'):
+            selected.update(item['sha256'] for item in record['context_files'] if item['status']=='ok')
+    all_texts={p.name for p in (HERE/'texts').glob('*') if p.is_file()}
+    write('transport.json',dict(mode='compact evidence export v2',
+        included_text_digests=sorted(selected & all_texts),omitted_text_digests=sorted(all_texts-selected),
+        omitted_tree_archives=len(list((HERE/'trees').glob('*.json.gz'))),
+        note='All README paths and all ScanCode results are retained. Full input text hashes were verified in the cloud before export. '
+             'Positive finding text and changed Plugin root context are included; other raw texts/tree inventories are omitted from transport only. '
+             'Recover any omitted input from its immutable commit and recorded blob hash when needed.'))
     paths=[p for p in HERE.glob('*.json') if p.is_file()]
-    for folder in ['records','scans','texts','trees']:
+    for folder in ['records','scans']:
         paths.extend(p for p in (HERE/folder).glob('*') if p.is_file())
-    # Raw README text is preserved for audit; no fetched repository code runs.
+    paths.extend(HERE/'texts'/digest for digest in sorted(selected & all_texts))
     buffer=io.BytesIO()
     with tarfile.open(fileobj=buffer,mode='w:gz') as archive:
         for path in sorted(paths):archive.add(path,arcname=str(path.relative_to(HERE)),recursive=False)

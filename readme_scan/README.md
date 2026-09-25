@@ -15,9 +15,12 @@ context files. It never executes harvested repository code. The inherited caps
 are 500 README candidates per repository and 1 MB per text; skipped symlinks,
 binary/oversize files, caps, missing commits, and retrieval errors are recorded.
 
-Outputs include every retrieved text, tree inventory, scan, and repository record,
-packed into checked archive parts under `codex_cloud_shard_NN/`. Keep all parts
-in the cloud task diff. Source integrity does not by itself establish copyright
+Outputs include every scan and repository record, plus source text for positive
+findings and changed Plugin root context, packed into checked archive parts under
+`codex_cloud_shard_NN/`. Other raw texts and tree inventories are omitted from
+transport to avoid Codex's diff size limit. Their pinned commits, paths and hashes
+remain recorded for recovery. Keep all parts in the task diff. Source integrity
+does not by itself establish copyright
 ownership; context comparison and ownership review follow locally.
 
 The main branch is not modified by these jobs. This input branch is for executing
