@@ -1,0 +1,2107 @@
+[
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "0f712b5cfe0d7dbbe640",
+    "repo": "ivanmurzak/unity-mcp",
+    "selected_licence": "Apache-2.0",
+    "stratum": "Apache-2.0|both",
+    "target_commit": "829dac551fc7d22c21d459502e2866e88479dbd8"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "1968f84df33a792c1b5b",
+    "repo": "unicomai/wanwu",
+    "selected_licence": "Apache-2.0",
+    "stratum": "Apache-2.0|both",
+    "target_commit": "4d4b150e9fe517cbb0a303d74ad0b74c5b1e81b9"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "3b44536838386f63e2d1",
+    "repo": "daodao97/chatmcp",
+    "selected_licence": "Apache-2.0",
+    "stratum": "Apache-2.0|both",
+    "target_commit": "ae90beb5ae6e843e1f1b3416b705537a8ca18669"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "07913eacd41ea4c3d56b",
+    "repo": "xpzouying/xiaohongshu-mcp",
+    "selected_licence": "Apache-2.0",
+    "stratum": "Apache-2.0|both",
+    "target_commit": "aad2a3d249a347859975ce3b76d3442c4a027780"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "8145cc16e17068e4f985",
+    "repo": "invariantlabs-ai/mcp-scan",
+    "selected_licence": "Apache-2.0",
+    "stratum": "Apache-2.0|both",
+    "target_commit": "57fdd46e53ee833c63007c486477f17df4f65625"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "6861393fa1e4cb2edc9f",
+    "repo": "hivenexus/hivechat",
+    "selected_licence": "Apache-2.0",
+    "stratum": "Apache-2.0|no_text",
+    "target_commit": "9d1e8ed614923dcf74414357e0fe53f66b016c0a"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "caffc6c0187fa174ea40",
+    "repo": "dylangroos/patchright-mcp-lite",
+    "selected_licence": "Apache-2.0",
+    "stratum": "Apache-2.0|text_only",
+    "target_commit": "75c719a8fdecc9f4e92dbacb964af04cea77f878"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "91358aaf22b205592106",
+    "repo": "tomasschweizer/zotero-mcp-server",
+    "selected_licence": "Apache-2.0",
+    "stratum": "Apache-2.0|text_only",
+    "target_commit": "4bc037233fe5bc52c832d9d1e95ab8803900846e"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "0db967d92512590b7b87",
+    "repo": "saidsef/mcp-github-pr-issue-analyser",
+    "selected_licence": "Apache-2.0",
+    "stratum": "Apache-2.0|text_only",
+    "target_commit": "f631533523fed71193bf521c2a028d50d79f5032"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "5108b8ed7543393be381",
+    "repo": "archai-labs/fastmcp-sonarqube-metrics",
+    "selected_licence": "Apache-2.0",
+    "stratum": "Apache-2.0|text_only",
+    "target_commit": "a07b107cf96e047752807acc9bac9aca260fcfc4"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "8e6787f154c244ac68c6",
+    "repo": "neuron1c/mcp-notebooks",
+    "selected_licence": "Apache-2.0",
+    "stratum": "Apache-2.0|text_only",
+    "target_commit": "db81672d5d4b8bca3b8ddea5015510ecbf8a3fe5"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "42c11c93294dda4d71b7",
+    "repo": "aerugo/riksbank-mcp",
+    "selected_licence": "Apache-2.0",
+    "stratum": "Apache-2.0|text_only",
+    "target_commit": "602b2c383af97d86f519e0e4894641f895a291ce"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "b44be450f2f15486713a",
+    "repo": "arkapatra31/model-context-protocol",
+    "selected_licence": "Apache-2.0",
+    "stratum": "Apache-2.0|text_only",
+    "target_commit": "193086ab52e199a25a58e3e8c097c785ac356706"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "fa6843a2d41eb6f556c7",
+    "repo": "mytechnotalent/malwarebazaar_mcp",
+    "selected_licence": "Apache-2.0",
+    "stratum": "Apache-2.0|text_only",
+    "target_commit": "df06790f172e0190053096d65d9ae355ff3c199f"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "aa036b081508f3c29a89",
+    "repo": "tugraph-family/chat2graph",
+    "selected_licence": "Apache-2.0",
+    "stratum": "Apache-2.0|text_only",
+    "target_commit": "13e9719541a3616019685d0069a88e0494c955fa"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "2cccaa7d648a22b51588",
+    "repo": "openspg/kag",
+    "selected_licence": "Apache-2.0",
+    "stratum": "Apache-2.0|text_only",
+    "target_commit": "fdab15b3929d2ee40dfcdd388f90233096a6afc9"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "1e82f6524136f1283d8e",
+    "repo": "chroma-core/chroma-mcp",
+    "selected_licence": "Apache-2.0",
+    "stratum": "Apache-2.0|text_only",
+    "target_commit": "98ff67589bdcc31b730a5415ff9529433f949077"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "924034c9fa32a8422f5e",
+    "repo": "hmk/box-mcp-server",
+    "selected_licence": "BSD-3-Clause",
+    "stratum": "BSD-3-Clause|both",
+    "target_commit": "209245e0c6ba50014306a23dc18b6200b99a0e9f"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "69c2955bf2fc51e229ba",
+    "repo": "jasonkneen/kiro",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "22577b636dc3095f774ace4c846034514d9fa071"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "5d4a1e9430dc997f09ea",
+    "repo": "klara-research/mcp-analyzer",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "5b011cd17f0a64ceb4ece82538b8f9139b78c0f5"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "041adccd6a9123fbeec0",
+    "repo": "conacademy/buttplug-mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "8d83a7e7bb54e5685fd3cae4b252ee7978c743ab"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "43b86052cd07bbfa12de",
+    "repo": "catinair/aipower-rpa-mcp-server",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "22e26d006cccb40c0626b1ea2fd825560ca3e065"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "526545a4750e4e7d3947",
+    "repo": "athapong/argus",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "3c109bb4dc4ddd3ba6064b851cf06ead80d2b1fd"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "8f33e90e9647d9e9cf12",
+    "repo": "yangkyeongmo/mcp-server-openmetadata",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "47fc3987e1c1677edbe9d49e4a91b629fd73b39c"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "ea6c936f4e627d80cfb7",
+    "repo": "korigamik/markitdown_mcp_server",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "5cf1f29034a35d68888b6e9b5fd46831cb30befd"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "98535dcdd7238ef8595a",
+    "repo": "petercort/act-mcp-server",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "1c321f5cffb9d2c8388472c156002d5af64a34f7"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "1b1c6ce98047db86edc0",
+    "repo": "berlinbra/alpha-vantage-mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "6f9686ebb7ab178bae83dd8e5e760762fe39084b"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "e08d3c382da373a6e871",
+    "repo": "paulotaylor/voyp-mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "10feb010b07f9788637447d5523972c6e7c16614"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "d80b2c85a5b8d6538207",
+    "repo": "edenyavin/garak-mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "bbfaef25a47026c94ffc6d975b5a2064feeb0870"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "87767314bcecb741b2aa",
+    "repo": "karayaman/lichess-mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "9b38c08145d977a25445b67467a020aae2aaa973"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "1d5b26efef52da230b6a",
+    "repo": "danielp370-msft/mcp_interactive_terminal",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "5b6e30355a04b8d0f88f45f28cf4c8e78bb0098c"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "1bc4c518c0d2a610804d",
+    "repo": "kapilduraphe/webflow-mcp-server",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "1f91fb97c2a277461a24ed58b68a15c39b54a039"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "14ba2fdaf1f9b52ff991",
+    "repo": "collabnix/awesome-mcp-lists",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "00718ed6a355cad0765ab12f35421813354ba422"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "13424e455f5943132b8d",
+    "repo": "marcusjellinghaus/mcp_server_code_checker_python",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "f8e41d3755e6ddac90cb7cc08ea81f56608e8977"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "f040d1895a9d1063a0f1",
+    "repo": "ttiimmaacc/cinema4d-mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "6bab376f0adbbfe20698c79689a14547e6bd9bb9"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "611da885186b0e147080",
+    "repo": "gianlucamazza/mcp_python_toolbox",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "fb59b726d1671745ff8ecaca62e0a69a0d48baec"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "3c31618a83405a302fe5",
+    "repo": "instructa/nowledge",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "9ade77cccaac6bca13087f399682849fae9279fd"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "173e4b043c3c936470f5",
+    "repo": "logiscape/mcp-sdk-php",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "d7302de08d868c978e1213bf4cca77a7c279e8f7"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "8c197c2fb9fcfa4429f3",
+    "repo": "yassine-el-gherrabi/mcp-rust-agent",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "aa052a3a1107c655722c34111681c57aa915400c"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "d60db354825edfb82b30",
+    "repo": "aryan-jhaveri/mcp-statcan",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "ff34ecd7462000ac4e23b7b2f1076d93e22b3f33"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "584302da171b20261fb9",
+    "repo": "jkawamoto/mcp-youtube-transcript",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "ad245f60b072d352c9850c071ad1da61838306f9"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "5428b9eda0da8c167830",
+    "repo": "marcusjellinghaus/mcp-code-checker",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "f8e41d3755e6ddac90cb7cc08ea81f56608e8977"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "52a7fb881ab902536409",
+    "repo": "3a3/fujitsu-sdt-mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "4c755c456a0128ed4833b7c11f12a082d140d7ae"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "d50107ec83aef858be11",
+    "repo": "cicatriiz/healthcare-mcp-public",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "1c4c40c3bb63b94ecf71f972d9806c76e7ffee7b"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "2807828168f0cd2be60d",
+    "repo": "jackkuo666/pubmed-mcp-server",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "2a254f418f431e7ee5c161e38c8144890d52c20b"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "0a9e953ee3fd84298b9d",
+    "repo": "falahgs/flux-imagegen-mcp-server",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "d07b3e644afb43a0502d57d1e6b01d6d190c2b55"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "2a04ba6b72df8ccf2134",
+    "repo": "iaptic/mcp-server-iaptic",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "e2bd2ffa119769bb6b3d42ff9cf58291b86f17da"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "d6883472d742b0775076",
+    "repo": "pv-bhat/gemforge-mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "fcdfe888accbc48ab2d368cb2b664c5989ed69e7"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "9dd5d0b9120515cb0680",
+    "repo": "marcoeg/mcp-nvd",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "568a603946715b7b3d520556841d826d2f73a222"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "b451185b717c1e3664fb",
+    "repo": "alexwohletz/language-server-mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "6eb3ed11ed15ddd3012bc50e44a8fe52fa43251e"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "05988ee382eaad80326d",
+    "repo": "cremerf/my-mcp-servers",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "c5c6c1e1efa06dd282efc32a03168e238dde1764"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "a3123c74551664437083",
+    "repo": "kriuchkov/ton-mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "d3b2717cf3a22a99327d92643d2f5c8456a29dbe"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "a638550c0dc3b8807285",
+    "repo": "mingyaw/us_stock_mcp_server",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "cd3080191f0b28ea9e7cfaaf1480eb0a57107e2d"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "8f2b5a7a37455dece733",
+    "repo": "zxs731/voice_bot_mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "200df0237d343b64aaea29e5706a188830a0e924"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "0715aeec573838415154",
+    "repo": "yting27/weather-my-mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "ebbf57e555f643a5bead81e90c9917f9bd60fc7b"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "436a09d244e392ab5ec7",
+    "repo": "aiurda/cursor10x-mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "0fc2ad74fa31b15e82acdfdc70f3765a96fa84d5"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "cfcdedb0171cb60f8447",
+    "repo": "enescinr/twitter-mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "740e42f86449b34b086df0a02f848b938235809f"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "870c6e5acefea2e335bf",
+    "repo": "elfa-ai/elfa-mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "bfcc4fb7329a5770b5926254a9e94bd1248bcf08"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "e0ef15fb3cce8d8372ba",
+    "repo": "bellingham07/python-mcp-server",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "07d1d530722fca1b9ecb3ba997e75729f5a71bf0"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "ceaba18172aeba3d2ab1",
+    "repo": "maxscheijen/mcp-yahoo-finance",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "529ff44899be817371be153caa0384e63f79b703"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "4ba4a50b6a3ae5081099",
+    "repo": "santhoshravindran7/fabric-analytics-mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "6781eb2436c652c8e560858698563e438c4747b5"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "1d3d395ee349c15d86ae",
+    "repo": "wrale/mcp-server-make",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "f7b9501746adf1f7abe46dbdff9149027ff3e5db"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "017b360fb67929c1a49c",
+    "repo": "kbsooo/jupythunder",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "45a71c80ea5e8d9ee2138882080715f10973da2c"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "ddd6deb486943cdc3190",
+    "repo": "hubblevision/hubble-ai-mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "3549dfa3c702b07473eac50287293094cb19ef50"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "3b0f9a65b81b6e10f65f",
+    "repo": "ethankang1/ynab-mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "290b762e9d4d4430a9118225669c581ffb831e0b"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "2b80ed0976bbfea91e01",
+    "repo": "aviveldan/datagov-mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "31143d3077683f997e78257cf0c59c1a4c1ff30c"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "36c32a35efe6cd33f982",
+    "repo": "crunchloop/mcp-teamtailor",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "dc205915e05178d413fbcb76ffcf808294e7b6ce"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "a72d32a31695563ae641",
+    "repo": "ymgeva/kanka-mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "c93ecba8e9b757789c43326f169aa1b10514aa9a"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "79f13f10cdc87213a308",
+    "repo": "alexyangjie/mcp-server-multi-fetch",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "d9fb13f7bf92f7fa4f4e8736da46095a36e62f1e"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "0cddcfd2bcd1474eb019",
+    "repo": "pab1it0/prometheus-mcp-server",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "4885f271ec1b74be65614f7d1b73d85d06b75d90"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "51717e5097690331715d",
+    "repo": "microsoft/ai-agents-for-beginners",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "25b7985f3b2dc37a84f4a7387ccd3c9f0e5b1595"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "c57175c1d4b30744bc7e",
+    "repo": "wegitor/reaper-reapy-mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "ffd8772ec9117d80508eab77f4fa881af34943f4"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "17ec8aac4c349b60396f",
+    "repo": "nico-martin/jarvis",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "3b553fcc8f7d404009b35674e1789f1b3b7a8571"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "026a3d8663f964851bde",
+    "repo": "sugarforever/amap-mcp-server",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "6049691e099d6a43974977fba18a9fd217ccaf39"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "b25b190953535bfc3ad0",
+    "repo": "vredrick2/nextchat-mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "f9b3555a9441fa1b9c796d56014d6fdf39155c96"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "a1ed5c188236a2d434c6",
+    "repo": "chaso-pa/mcp-server-template",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "08e929c384b90a4368d516be952d588f2f054c21"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "16c6cce88b81f45038cc",
+    "repo": "bsmi021/mcp-file-operations-server",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "89a3aaaad12e7b6ab2a755e868ea02fb65f602af"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "7d5c9f066cd6c5fc428c",
+    "repo": "ageerle/ruoyi-ai",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "cca30905778357e3aeb42b6adb65ef2384e75e60"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "e248113b91d741fab340",
+    "repo": "vakharwalad23/google-mcp-remote",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "a91984c628134824c8adda6a4b9a1d1899cd0663"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "9bcd7b84c12880dac037",
+    "repo": "jkawamoto/mcp-bear",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "14b511f92b1f377b1d4d8b12c46eb5c9223fc8f5"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "06538a865e169987469a",
+    "repo": "kingkongshot/specs-workflow-mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "3ba13891e3d03b82930f5770f826402c1bfddda3"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "6be4e7850121c8124035",
+    "repo": "jamesmontemagno/spec-driven-app-template",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "a5b7fcb7aeda696d52e516e8e06618a185da854a"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "b3e7f9fdd45a8182f968",
+    "repo": "mushroomfleet/transcriptiontools-mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "a51881ac1a41131705f55e631109c79d002a0710"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "b6eb314862ada7bb1301",
+    "repo": "78/xiaozhi-esp32",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "5d54beb743ff49c4e8db81bbef9413bdd6e2ba17"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "8a1b6ff86aa71dc55d87",
+    "repo": "pathintegral-institute/mcpm.sh",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "6a92e54c748766973add4b8c153fcc85738d2d89"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "970af6f6b92d8b65bbb3",
+    "repo": "frocher/botnbot_mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "7e51065b70316d82b7d396dfeae65539f1d408fd"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "ba7e71e0b0dff3fdc5f0",
+    "repo": "tumf/mcp-text-editor",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "9176a5012b8faf0cee158558f8cd40a7d2a33548"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "4698871e8598a392f5b2",
+    "repo": "sawantudayan/document-search-mcp-server",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "25995ba9df1f548df75d28551e73aa2ffd036f40"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "4ca8ecb0c150f1bffe2e",
+    "repo": "jonico/octocat-harry-potter-mcp-server",
+    "selected_licence": "MIT",
+    "stratum": "MIT|no_text",
+    "target_commit": "22648ea0ee71820b768e7231f336bd88f19703be"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "27049849e10fe1f240d1",
+    "repo": "jagreetdg/stack-exchange-mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|no_text",
+    "target_commit": "6d4ad40af8638b19e79631db7e3774882cce917e"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "5ac7e28b0d5e65d3cafb",
+    "repo": "simonwong/mcp-servers",
+    "selected_licence": "MIT",
+    "stratum": "MIT|no_text",
+    "target_commit": "5775384c916cacaf429e2f4016b5f2faa31f5509"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "a239e9c373b9a1cb3088",
+    "repo": "mako10k/mcp-integrated-search-server",
+    "selected_licence": "MIT",
+    "stratum": "MIT|no_text",
+    "target_commit": "97b3e5caad10ccd96af71c3ae2909cc55ebe8ad2"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "a23539323e9e824c1bcf",
+    "repo": "edrigu1989/slack-mcp-server",
+    "selected_licence": "MIT",
+    "stratum": "MIT|no_text",
+    "target_commit": "678445d8db033a61724d88a1c5bb6964ad66ebc3"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "ff0fd338b5938dd7b745",
+    "repo": "nisarg38/mcp-server-template-python",
+    "selected_licence": "MIT",
+    "stratum": "MIT|no_text",
+    "target_commit": "532bc0726589966a039f3f446afd58fd8f76000d"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "41dfba4ec7b3138f2a80",
+    "repo": "montevive/penpot-mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|no_text",
+    "target_commit": "37ec03275f0eb46035cf730a481f46255e7220d5"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "bfccb4314fd0efd99ee3",
+    "repo": "jovanipink/mcp-browser-use",
+    "selected_licence": "MIT",
+    "stratum": "MIT|no_text",
+    "target_commit": "0f29c80f539cecc68af05cb9ead1ec3851d8865d"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "7cda987d7af145c9dfb9",
+    "repo": "jaipandya/producthunt-mcp-server",
+    "selected_licence": "MIT",
+    "stratum": "MIT|no_text",
+    "target_commit": "fdfff827eec0904a0139e1fbdbe71ad13232c1c5"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "450d36b04fdf66923587",
+    "repo": "blamy/onshape-mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|no_text",
+    "target_commit": "79c748c8e5030fe8bc2b27be3a2ed124f5bfe1c6"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "be500006ff406c2ee7bb",
+    "repo": "tejpalvirk/developer",
+    "selected_licence": "MIT",
+    "stratum": "MIT|no_text",
+    "target_commit": "e28745a7b20970fa92f4289bb65f33713be2962d"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "6b310d2f8a1475b548e3",
+    "repo": "kenokim/mcp-server-time-test",
+    "selected_licence": "MIT",
+    "stratum": "MIT|no_text",
+    "target_commit": "468bb3363c590ce1ee53320c22ea9a4117456178"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "239a0b494f71708e918b",
+    "repo": "pylogmon/powerpoint-generator-mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|no_text",
+    "target_commit": "0dd8cb3614998aeb531106109c9339af0cdafc09"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "c5004255b9d77f8304e2",
+    "repo": "ptna/mcp-ptna-news",
+    "selected_licence": "MIT",
+    "stratum": "MIT|text_only",
+    "target_commit": "ebfe430575734b679c56c975261de6274e853a82"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "d356ce46531b1dc3fc2b",
+    "repo": "sdcb/csharp-runner",
+    "selected_licence": "MIT",
+    "stratum": "MIT|text_only",
+    "target_commit": "077d49ee015eb512630b4dd0008c7b0345dce634"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "a63e857c38cd0cc574c7",
+    "repo": "bob-lance/grok-mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|text_only",
+    "target_commit": "c03cacb62b83028093d2973b4047d5f69126f8e2"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "e1cdeff299fc7083a934",
+    "repo": "shakermakerk/ticket_tailor_mcp_server",
+    "selected_licence": "MIT",
+    "stratum": "MIT|text_only",
+    "target_commit": "fc05015c143d674b8c15abfe80bb81db76236041"
+  },
+  {
+    "arm": "mcp",
+    "baseline_root_context": {},
+    "id": "a611394d4854434db02d",
+    "repo": "codebywaqas/weather-mcp-server",
+    "selected_licence": "MIT",
+    "stratum": "MIT|text_only",
+    "target_commit": "3b10a72098bb941ee9645ddcd38db04d32647b62"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "887d8e116414a166b7c87714892a963166fa936b144dd872aba49a0cbd5f93d3",
+      "LICENSE": "4ff3ee44e6a034a35f6a0cf45c20c7f215cb4454e23980bedd2419435b188990"
+    },
+    "id": "7e48aa8058e6dc8e9512",
+    "repo": "bryonjacob/aug",
+    "selected_licence": "Apache-2.0",
+    "stratum": "Apache-2.0|both",
+    "target_commit": "3d3d31c0fae1705c6f45ebb59358d4de6e75668a"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "625266db93ea12018d48ff3cd304f6155c4975668f6e35b2b8f7744ef7b1dc6b",
+      "LICENSE": "0cff1a8ac2a381870a2c57cbe9b25f95bea0925b39b7fbf6a04ec23df7c77760"
+    },
+    "id": "9e5cc8b988632b3847e5",
+    "repo": "HKUDS/CLI-Anything",
+    "selected_licence": "Apache-2.0",
+    "stratum": "Apache-2.0|both",
+    "target_commit": "810c18b0d1ab9b234bc996c9fd999318523a3ef0"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "f266260e3eb874e9c8b89872dee26b6db6e6efda2aa00ba3d85efb907150f3b0",
+      "LICENSE": "ccca91e7547675a4ef11c427e4226aaafb2da86f56737f45a1b0057d9f2baba3"
+    },
+    "id": "9829ddfd93433f8c96fd",
+    "repo": "ondrasek/cc-plugins",
+    "selected_licence": "Apache-2.0",
+    "stratum": "Apache-2.0|both",
+    "target_commit": "9d5d310fdbb83862b531e4468dc4423e98474a1d"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "7d39dcdbcd6f59d07be393625affca0fde7a60ce6b0d082c89fa83934043a088",
+      "LICENSE": "ebcd63e3140f0b173df85b1fecc00d33b285f291152d5267540d31c6fde025c2"
+    },
+    "id": "83d3b6ac7b3c5d77186e",
+    "repo": "linuxfoundation/aaif-onboarding-marketplace",
+    "selected_licence": "Apache-2.0",
+    "stratum": "Apache-2.0|both",
+    "target_commit": "acdc0fcf017c0eaa547e998e1accae89c8412e43"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "0461b4433db06160960402068283066dc41384653a3150bb4db7159d145d18b5",
+      ".claude-plugin/plugin.json": "8bf108b30f1cdcbea86abfb5056f28d36ab426797fa98d96e374ed65c8e2f6ff",
+      "LICENSE": "c6954490245296b76ac2dacb8f89f58a8927bb696ee43d29751966de53876f55"
+    },
+    "id": "5ac06bb82e092b826f90",
+    "repo": "meta-quest/agentic-tools",
+    "selected_licence": "Apache-2.0",
+    "stratum": "Apache-2.0|both",
+    "target_commit": "18b183dfcb6a5fcec6615d882ca6922c08b7094f"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "a16630591bfcd7e487e1d1ea1cb58cc2e6dde18873139992e681220992fcbdf2",
+      "LICENSE": "122748b782606bab52a16e8ca41704f6131d7f522201ae514485658b7b7d44c7"
+    },
+    "id": "34b4151bad685d73918f",
+    "repo": "winsthuang/hazel-skills",
+    "selected_licence": "Apache-2.0",
+    "stratum": "Apache-2.0|both",
+    "target_commit": "f22a12a0335207001fed613230f85d2f85681e50"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "ba0f2da09c1190b1c1a72737a7ea8351833c9651d6b43e422e98230c7aaa6826",
+      ".claude-plugin/plugin.json": "8aaaf3df26c76d0345fcd74fdd24272619d0b26c9fe85101fc18aaa2da2d53e9",
+      "LICENSE": "7ecd8ce1d30b8aa26232f5c7c878cca53bc273547ce52f1678f955154746e64f"
+    },
+    "id": "9cab7b90a5124f36f442",
+    "repo": "exploreomni/omni-agent-skills",
+    "selected_licence": "Apache-2.0",
+    "stratum": "Apache-2.0|no_text",
+    "target_commit": "f83586dc031ce97de76a3658b19b224061d26d64"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "fc089c64b5abbf29fc0a218b159f49e525e95e2a98cd76ea46b33265e834531a",
+      ".claude-plugin/plugin.json": "e5515c80048b1482d3a4e753206ae87154389016c644dc142f125fd54864ce0e",
+      "LICENSE": "58d1e17ffe5109a7ae296caafcadfdbe6a7d176f0bc4ab01e12a689b0499d8bd"
+    },
+    "id": "0a9a52c76ef56a6eea48",
+    "repo": "fukayatti/arc-devtools-mcp",
+    "selected_licence": "Apache-2.0",
+    "stratum": "Apache-2.0|text_only",
+    "target_commit": "9764e21aabb5a9aec1f51f1528f33fdc64dc50f5"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      "LICENSE": "529938379e3e2a639515c5341d9bd439049a3b725e8949631296a6a6202d61c9"
+    },
+    "id": "085f092e4bfdf9ed5620",
+    "repo": "voicetreelab/voicetree",
+    "selected_licence": "Apache-2.0",
+    "stratum": "Apache-2.0|text_only",
+    "target_commit": "3c598d243eef64fe41ff742ed1f0ca73a4cbbfec"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "579df728db690f43f3fb93adb7d210980644114152bcdf255ddaabe038927488",
+      ".claude-plugin/plugin.json": "0e59e2b5c94a98d24ea7eec726338a31ac8594e8d770efec440a3d1f20fcf3af",
+      "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    },
+    "id": "614431d0d0b325c453ac",
+    "repo": "sitammeur/ml-agent-skills",
+    "selected_licence": "Apache-2.0",
+    "stratum": "Apache-2.0|text_only",
+    "target_commit": "5e1c2538d4b059703b73c7112f0e6098631d2faf"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "ebaf2446e587bcc532bd850f1b5413f24d1bb80b580a782fe6af0aa7c927bd43",
+      "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    },
+    "id": "7636607e6ac1c603158d",
+    "repo": "Soneso/stellar-ios-mac-sdk",
+    "selected_licence": "Apache-2.0",
+    "stratum": "Apache-2.0|text_only",
+    "target_commit": "91b2dde3965ca03aabdb0df92b98dd362016a9ba"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "c16765a099c353f074f87f4f5d575bfda9977603b4c8aa8128f6a608f5ae9a16",
+      ".claude-plugin/plugin.json": "98edac634c7443f9890a0ef54a5de75947d5e3c32b6fcd8d4006e465900dd198",
+      "COPYING": "1400d7a176a9221b0708ed910e019203f4cbdf21717856751f2483b4efaae6ee"
+    },
+    "id": "aa20d75dbbabb8db34a6",
+    "repo": "undoio/addons",
+    "selected_licence": "BSD-3-Clause",
+    "stratum": "BSD-3-Clause|both",
+    "target_commit": "38db85c4ecb63e26dd31295b7006e42594a473c6"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "4f4437df1684fb247c58337861c22422e6851aa692fc998c751310b32e625009",
+      ".claude-plugin/plugin.json": "24ef73a60916eeefdf208fca725374c2680291c4504f4a9eb2463c3bed68adf9",
+      "LICENSE": "3901c02288d4831329bf5fc9767d191f0f5d3a576b1e83fd59b177b2924913db"
+    },
+    "id": "209a17c5d2468321c1ff",
+    "repo": "jeremyeder/dgx-agentskills",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "ab4598a16e06f3194eff4ddf24aeca4b61c99219"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "51b7ccf8fa43e6ada8ec94829a93c307414c1ef7feec4486b6b4c020a9c96fc1",
+      ".claude-plugin/plugin.json": "617b986333417b7853ed955f7ff9f34976f763ddab0e0bb1a23435f2394c781a",
+      "LICENSE": "2767227328e2f57eab89191bff4007d89f41e426fa5a5b47db6d9b35d4b21085"
+    },
+    "id": "fbda62eaf5ce43d9c45a",
+    "repo": "2389-research/claude-plugins",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "7c4209904197a26e78ba49c9c057c040d8df5a41"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "c64a855f589479cd877db23d2c8476c5cec138ecc798376c120d0cc1fc3ca737",
+      "LICENSE": "a6609d6732488ea26b0f923fc10e7ab43bcd70b52b757fedd8e6915aab8b4880"
+    },
+    "id": "50e5f66e677f7f34ab72",
+    "repo": "pendo-io/claude-pendo-plugin",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "a08842848e416be803e99184130aefca6ec9afd3"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "1378be6d8428414a7eb7ec9f8653d1eaef163606f86e299d70cac673a856c66c",
+      "LICENSE": "ba3805054852ba4d49c8beadad9cd4c9b1bbffd7d6ea98c4d756b18d53cb8cdb"
+    },
+    "id": "c64f5a1fce09a3c3e3ab",
+    "repo": "hejhi/hi-cc",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "47791fe63524338456ca47427d5705a1a20034c7"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "83880d061c299b2e9927d8cb43fe97477175d758e987ef5f3911eff62279d419",
+      ".claude-plugin/plugin.json": "e22285f1c78aa64c36495d1358bc0b8f868a56e0f4a583b23a8e2e2e4025141f",
+      "LICENSE": "df3053dd7cf0f758db06229632d87b0c70561c62e00cc53ad5edd35ab75cd69e"
+    },
+    "id": "310dd747304a28b63dd4",
+    "repo": "thalysjuvenal/advpl-specialist",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "d80599b75e30e7f559218b453d72b84999f138a4"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "a2b4ef304fff2872a7eef2841c6bf0181e5ecefd1a1f1dff875240ec590ea884",
+      "LICENSE": "ee349472a22a54dc560edadfec58f78789b2f5b7143c07b32f5f5bb415431d2c"
+    },
+    "id": "cb0f1d87839dcada0143",
+    "repo": "clemux/claude-code-plugins",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "3a6dd6578d29b4c7e4b1d640af07ab7af6ececb2"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "040831084111bdbdcb8de24cbdd5e824da49090227ea9cfba77b969984dcf819",
+      ".claude-plugin/plugin.json": "901436a8b26357c32fb871664672fdcdca70c93f7f9f1627e9fed5a968b75395",
+      "LICENSE": "a0f822ca1c51449cba71dc6a6c713c8728ed437fe44a2f09f28b66e4f04a8e6c"
+    },
+    "id": "f8de34e7e8c32dc4f41f",
+    "repo": "anortham/julie-plugin",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "a51922279f4191f26facdb67fc5c676e4ebd9c49"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "eb1a37542d29e690d8d503d7b335efe50dda44e30de5df16988e14ebd4717ed0",
+      "LICENSE": "60e7b2c2e93930c5e46d03bff428c79b91ab20d650e45c75be6000f4ff5f02bd"
+    },
+    "id": "d7d1e37506f32e840f91",
+    "repo": "hmaurus/masterclaude",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "2d8f0738dd7fbd4050ee2d67fdc7339db94781e6"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "c35de7164917c94fb3d74e2246595e6a9cd3dfb346018f390de5a9d37890e90b",
+      ".claude-plugin/plugin.json": "61115087de4372a6e1c4ff58421feae56a2de2a7ab29d849c69cc2ad9276cf90",
+      "LICENSE": "d50be10ff592dc0fbf0695d2b9bdad39c2d61da46c1f4dbfc4c5c8ad0776752b"
+    },
+    "id": "e2b50e47babe80343b80",
+    "repo": "PipeLlm-AI/pipellm-websearch-skill",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "483942127a72f5f836fef00e8f7d14903c927d92"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "736cd41438080bd6b6e245bf0c894ba9e85bc1ab59f90b0599b6fa20c134d5a5",
+      "LICENSE": "44fce34a13e7cef571b3d8cc09e23207279e6c0701b319520d5f96df5ac44b5f"
+    },
+    "id": "cbf52eaaaf4432038fb6",
+    "repo": "DIO0550/d-market-typescript",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "b5d7078f8bdb6258590f7e495f8a2379e5b216e3"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "75bc04de8c14214c889e5e569c782b695ca2925904fad2f96ddbc6f5d0984351",
+      "LICENSE": "3b7937889d9e23842710dde6333e77d29ba7434dc5518b22b61637e773052e18"
+    },
+    "id": "56364db29d507a762d32",
+    "repo": "ExpertVagabond/cpanel-mcp",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "e58c4aa3f2e978038833dc6d43853efb6b1771b7"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "b0c321ba342c440eb2ff2f1fdd27803b79fa93c38770899d6ebde5efab4632ae",
+      "License": "c3ec37eb91f844cb073c2c97dc8bc69abfe3aab8424baed0f3bff8208f944304"
+    },
+    "id": "30b0483dfa2d532159c2",
+    "repo": "yaml/yamlscript",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "69e21d7766f0c2a73b0fe7dd271aa0af5859f247"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "1672cc25d036bea373b149776a95f6b7af706476afea508d17081578ded50f36",
+      "LICENSE": "fa2da63de89b6175d8db527da392a3d90d9976cb8d9199c138dce8f3c3c39ed6"
+    },
+    "id": "953a391531b88a791a0f",
+    "repo": "Linaqruf/kana-code-plugins",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "012bac30e1d5ca4851f76a3899300831494085d5"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "50e2703d71aa16c54b891d28fdc2d6e85ed1dd4818f3f196c7c933bcdd26e06f",
+      ".claude-plugin/plugin.json": "dc72ab55f35627aa4bf9240e6b6e7462f59749b8fb7e57987f235f6c64f7608b",
+      "LICENSE": "aa42e5482c1da90ab126af3f077b77c496ffc269ba69e357e07990f80707a427"
+    },
+    "id": "6655a0fec001d6511236",
+    "repo": "hideki5123/multi-agent-council",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "327425328eb483a2122aad573824b7fbc274a839"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "eb5db3e441456722b5ff418d41632aa7a53646aa0d7eb5aa68237061541675cf",
+      "LICENSE": "0fbfc35c3dde33d72230f8f02ae86af3e54f4f9edc46588612473b702925368b"
+    },
+    "id": "04430b6c38764fbc6614",
+    "repo": "noahlz/claude-plugins",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "c4cb1a15183ab1d9fd41a0fec45e4def5b8ec0df"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "dacf464e03e4f089dbc30acf3b443d82759f00305cfed033ec597fcd1f9ac98f",
+      "LICENSE": "c905c6476f073fa13bfe26719d290e97ee7312c7570a067f165185e314603feb"
+    },
+    "id": "174231f7a641032c77fe",
+    "repo": "kevnk/skillify",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "b2e1ee8c1f0051ea60fcffac84ee54313a00c44c"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "14831e32c3571f5667ba2e3981a08689a8042bf1b6709e5cb19cfa2b3fe416ff",
+      "LICENSE": "bcf8ded4dec3b28c17f0b94de873776a9d2de72e89b0a5059b05b2502f25f019"
+    },
+    "id": "0cebf43087c1deab4b7c",
+    "repo": "flejz/skills",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "c88dcf2c081b301382c339d5850cf720640c0da4"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "72f3491213c74a010635ad394d92c5b5d89e871ba26511a881703ffef7de270d",
+      "LICENSE": "7036bb38a4b8d088004cb7c2f45cc046755182ece74b8b8f07e1a389f4bbb7c0"
+    },
+    "id": "5126d4de3b5063d6161f",
+    "repo": "stx-labs/claude-marketplace",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "b8741f780e98ac6f2252d81772be2ffcb02c5dc8"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "f9a1a2eb50e10e348f3e65054ed57263e3771543f2cf8b877a6ff1b81d215e9e",
+      "LICENSE": "2c6d641d0295b070ce2039b1a9ef8efda194d9fcf777e4bd47c4257bb5f89597"
+    },
+    "id": "aedd1fa548c03b0dd418",
+    "repo": "AndreJorgeLopes/devflow",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "bd4b70c5b613e1271ba3caf657d5facd25a58049"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "b14c1dbd118a1eac29240cdf6088d959303a7c2816c822fc7c0fb078a8d119a3",
+      "LICENSE.md": "afab237342b278ae387f5f9cc1c608fc94cc5e725d66077946a3bed88b77604d",
+      "NOTICE.md": "c82b5c3d8db980a1e1461ade97e18ceba9806d946ba669eb5319b6f675e4e5b3"
+    },
+    "id": "43d3eb755ca8c239806a",
+    "repo": "teslasoft-de/claude-skills-marketplace",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "596bb7736856d778288f616b49cb6b8018d1c680"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "e10b6c3108b98405de68589b8d123f6b636373434ffd5a239921fcfa0832bb88",
+      ".claude-plugin/plugin.json": "16270d5e37dc5ba1b40462ae0bc6a697bc22cf1a05f5aec8cadff1f644ef5a4c",
+      "LICENSE": "51c34addd1bfd5177f9ec079dd2de05e205c5bbb86b835f9bf4fe57d82d863f6"
+    },
+    "id": "9a7d48d311da6dd0bc87",
+    "repo": "nwp/suno-song-creator-plugin",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "09ba566510d1c9c83a9b884d78e898ed21e15778"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "b1f62fde6991746ec0cf7fc11d06632c08b3979948bbcb3599e32c359b8114b7",
+      "LICENSE": "ec58e9039ad26ae73df4c6855f57ce352f50f137d1af7c2c44cd4f0206aa946b"
+    },
+    "id": "68c61c69cc363c74282e",
+    "repo": "ArcBlock/agent-skills",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "f9271ccffda6efeb265103e1d85e3ca338666f58"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "d8ca49a7a9a4ec78f36a387f6f69d07a559b51858394475d2e98ce82b6f83a12",
+      ".claude-plugin/plugin.json": "67bacdf387e5255c01b9f289f0dc48bf5807f27e52c663c1840181a4a886a4e6",
+      "LICENSE": "9e293647be7ab5a3066b4758bd970046c6f96f59b3b5764e663e3bcbd941a1ee"
+    },
+    "id": "8d960de9b7323a769130",
+    "repo": "yshaish1/stitch-to-nextjs",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "f4969f976a3fb89d94f3bf050eed3e5ac1d4ef80"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "3bac9c630155e1906f8c213ac0116bddda5292feff553d325d6325c4a2ab05ad",
+      "LICENSE": "ecbcd8f5eb6887fe4f4075f81f0a41faf41c2335652f13f15bc7be937bfba791"
+    },
+    "id": "65b94f040945077c3bfb",
+    "repo": "berrydev-ai/berrydev-plugins",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "3e2fece4fff5c539fe4dcae6a434699c4f7631a7"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "c4741c2cba6ce70a83d4a7b74bfe33e48ef1ea1ea9027a750dd53b88c897bd86",
+      ".claude-plugin/plugin.json": "946d693a193cd54e7aef736bdd0b4624d9b3235f170184762f043309936b4f16",
+      "LICENSE": "479029ebf37cbd6da6d7ffe8215f5fa89f5a50905485fdf62c59a13afa3ef351"
+    },
+    "id": "9919685c473baeabd351",
+    "repo": "Manavarya09/cost-guardian",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "284aa2350ffdfe787e1035250f74030dca3807a1"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "e7a8a05bc90e41fa7af940dde9f66bdbb4cda8177fa22235e34fda2cc479b856",
+      "LICENSE": "1591125cc5111715aadebb99bb4844d25e6c6688f5e32bcce83decd44d23174a"
+    },
+    "id": "8e31e2fb631786993f95",
+    "repo": "mintlify/mintlify-claude-plugin",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "b977cb494fd8e7b24d202f8762a83557aa2da327"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "52456ab635be6331d354383f41967cb2d671084b0302405fb299bd28621a680d",
+      "LICENSE": "554927dc767616894ec3642967a04687944d982864f3a3a2b8953509d874c510"
+    },
+    "id": "f4eb73d4de1cc26cfca7",
+    "repo": "TakashiKakizoe1109/cc-notifier-voice",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "0b6ec5eabd41ad5f2358d0991330bcc13a5dcd23"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "e79027261f571094fac4c7a9d1c602a73fd8a6a3f8a4da7573944604171d650c",
+      ".claude-plugin/plugin.json": "c47f6646301ef6f7b2e72079355bee22c59b0bbdcbea86ee438c14ad48c61610",
+      "LICENSE": "ce04defbcdf2417be9f3ef49c97b176e402967a8894338898e363d64ad6a8bad"
+    },
+    "id": "92c9835700ca96e386db",
+    "repo": "fiber-ai/fiber-ai-plugin",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "3c1a475709c15363580443005ec757b8ee0cb346"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "542f7b151ebeebeddf1af9e6248fb79df28b43d8bf2c7cf6e73d8da859b00854",
+      "LICENSE": "75af7b29c2c81132ab2c3bb4c994b6c8b7166acc06b8fdb195d4ffcb4b0a4fb5"
+    },
+    "id": "7f5b6dac62380b28fb09",
+    "repo": "ohld/ton-analyst",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "2e4bd48b139eaac62d8b8cf156ebe76a6f39b766"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "61488ee306e181917825ece4455c489140999903a109478e92cdb3677134875a",
+      ".claude-plugin/plugin.json": "7474175fefe570c533ec89bcad819e55cebef6ce525fe3124d87d74e7837121d",
+      "LICENSE": "87a563c7b2aef4a92c24f4e9d354f8b93924c92001aebb95a875550ee86cae46"
+    },
+    "id": "ed179bf23c4856eb276e",
+    "repo": "QuantumInkDev/claude-discord-status",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "2d8fb41a34c2379a9f49025fdb29f0729e454c5d"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "14556313d5cdb8de7c81c32384cc794aabdbf2bc21d1bc746537c69a3d224711",
+      "LICENSE": "f2d7c8832fac391ad2e05dd07b7b8e1d8f1a4fd3326915e2866cb9b467a15608"
+    },
+    "id": "d1b26d25138d5185ecba",
+    "repo": "kurotori4423/udonsharp-coding-skill",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "5e31266646ed5238a0de7e23110d1db51b05dadf"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "480d66099b543ab12bac6a3d4999c06d84df6abac80e7b06442a445c6cc154bf",
+      ".claude-plugin/plugin.json": "f32b6f3a6b115d8903b36bcb9804c7167eeec02dac78b55feace53c358132c4e",
+      "LICENSE": "0bbf60f67b9ff841f56f4e1b8b61d2841ef5a99d9e5530823ca454ccc1c6ab75"
+    },
+    "id": "6bde8c72b757efb59d64",
+    "repo": "Ward-Software-Defined-Systems/spec-vault",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "91772f13e13ff7604e8fa6e66e9be5643bfa8635"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "dfd454f1eb25a78c797a190f6fd3c1eaff5965bbf052886bed581cee9d78babb",
+      ".claude-plugin/plugin.json": "8debd6faa13b46c6a106df14558583f1bd81c9778597bf4b08e40580e4882b21",
+      "LICENSE.md": "d8ee072a1f6bafe833126b5ceecfba251bbbe0c0ba230840003d883c0f30e7a2"
+    },
+    "id": "7e79681b97254f960f06",
+    "repo": "NikiforovAll/keycloak-authorization-services-dotnet",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "4709450f8a001c8edc13f5976c538acf8aabea55"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "3079e75a4a6dd5189aa0769c25f7929e5502d2892400384e2e35edab72409255",
+      ".claude-plugin/plugin.json": "5c184fecb18be95198a7df242a133f8ef05bde34616dfd768067ac3befaf499e",
+      "LICENSE": "0aa40dd74716b08a6a70518f048f6441b7f10aa424110313ed289f4e3d294311"
+    },
+    "id": "01b6d7bdfbc79fbc6c44",
+    "repo": "neonwatty/job-apply-plugin",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "370204c58b1137d08c5a7e7449538ae6447be0b9"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "fc58e52d57052fa72815fb62d3e1eeefb444c4d0a91f91e7e713a0b223b12376",
+      ".claude-plugin/plugin.json": "744aaea969abcb04bb83671a8a9b6a96139587e0189ad3a64286bb1f46e0ec12",
+      "LICENSE": "67f9cc3019f4d1b9a2663d65863fff5def053b456aa72273ce3bda6f2dcb2dcc"
+    },
+    "id": "642f6908f2e130e98cea",
+    "repo": "Rune-kit/rune",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "feb5f5d5d9cade3e3667913af468a0b1f929ff2e"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "8000c8b63701b5336a76f449cae26fe30406e9e8512b314d205b8912936a2e22",
+      "LICENSE": "6fc23ef99f92b9f20de6a7d4d6d31005fbbd7ad3b0219ab64d11725868ad1c8b"
+    },
+    "id": "fca6e569718d15a3a4e5",
+    "repo": "cpliakas/claude-code-aws-solutions-architect",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "cf48732a2e9db023c870afd6c71aebecf41fa5df"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "36619eab10decc9a745169ec56d4a0cda1b37398582ed1d894e5ce0e7b0bd5c5",
+      "LICENSE": "610ffe0a0ed80a9cbfa8ad29e498ebf90db42d3bb9b5fde1403850d2e5e72619"
+    },
+    "id": "540dadba3bc256632a9a",
+    "repo": "GiladShoham/awesome-claude-plugins",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "838081f683ebc6600ac3e37058f5dfd64a62ec7f"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "4555967c64dbc3f0ea43f79d7ca5aab71900a9917f2fc4c8537974079ee1dc26",
+      ".claude-plugin/plugin.json": "57630ac9be495b3c7dd60be670f0a2e8eb2d07aeb9616f75f2273206c20e91d0",
+      "LICENSE": "74241a34b3e7d80ee02d10a10302213215dd0f8f6baa3d2ee733874352096ca2"
+    },
+    "id": "3ba9d9d5bd4983b993cf",
+    "repo": "futuretea/flashduty-assistant",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "444ab0576b8023ddb9510b487216324615daebf2"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "6a9b15fde4bedb777ae418069c248447f13bd994555681de3e39c10ee08c4356",
+      ".claude-plugin/plugin.json": "708fd1a6307da914a4656afd56929cb9b89dae9ed2167608426d2092ed0ccd62",
+      "LICENSE": "16e3091bc241807e064ef87bdf6abf4a8385572fb32a42ba3c5f059e4006adaa"
+    },
+    "id": "37962149c383fa854fcb",
+    "repo": "dykyi-roman/awesome-claude-code",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "7e1fea8899b7994073951dfd1f6a10532ddbb867"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "1dc3df80c75fc98c164c645bd40bd01ad0c58dc82b991f50ac43bef061db81ee",
+      ".claude-plugin/plugin.json": "ddcb7a9660b87d79323d894c43bf8778270c2d2d560fa10d4f124a100ad1e2ca",
+      "LICENSE": "b442139e3bc93da922e9fc830ebd4524e9b68cc19563f3587189f3d1cd5e0078"
+    },
+    "id": "a64d270570dfced30a5b",
+    "repo": "Lay4U/persistent-ralph",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "3fe9aa6ad9a22dad891b3debd590a8250463b707"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "fd041b90f09a6f92960cc7c7b40a13b0ffd742496a9883ffee798882f27e16b2",
+      ".claude-plugin/plugin.json": "510eb9792c66ffbfa27f789275dddb788520e7b8d737ea13722450751ee005fa",
+      "LICENSE": "d352606eb94ad0219f8d45cfbb78f33b70e910af8a2a68d28c92668b40fd9420"
+    },
+    "id": "fa76158befdd0a2ec15c",
+    "repo": "oalders/kitchen-sink",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "100226441ac7b9cf974c075d2c233b97d9125bd3"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "b062cd438a433d5d8a6ce412948d24e29c2a02e3ddd997f1f6114840ea3cea85",
+      "LICENSE": "50a56a3a95a55cb39f94f761c2714243db8c7271854265145a87688e7151118d"
+    },
+    "id": "e55e58403870ac4cf72b",
+    "repo": "chadpod/xcstrings-localizer-claude-code-plugin",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "dd8afcfec2bc8153d23f0041d4f200a764bb0cd2"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "1ed2fb2e97c22e84b7ec30d1238d5a45434670115ca06c030a2d2041de05d995",
+      "LICENSE": "989ac6bf5379cf35923fec3c1fbd1e221e9232fd3a106c4f8b76888bc8358acc"
+    },
+    "id": "99f0c12ff8b78ba9679d",
+    "repo": "dariuszparys/claude-code-toolkit",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "a725d7679dffcc1020615b954af1de6cf6e710b9"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "66ecafaafbe4b41f428b16c013a8ad743bca08718bee73052eab80534da86cc7",
+      ".claude-plugin/plugin.json": "3992d2de63bb75c838a0b0e92ddb0fbe2b15e41411503f75518f05d078cd1e7f",
+      "LICENSE": "b7b93f4cda56e4d122f572ac4e7566f8a6421d8c6d92ae941c93e060decc9fc0"
+    },
+    "id": "eff1deb82c2b6b2e551c",
+    "repo": "adidacta/pmf-detective",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "87c895f491466bd3ea1878991df779858e6eabfc"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "c6a1aa31d48bb8e2b7e20e93205570930174096c948ba2960cc3c90647c2a67f",
+      "LICENSE": "95001db9021b10b25d0471c590b7b5878ebeb693cd4fe8b8827fdf46c4f2699f"
+    },
+    "id": "54a53c68e847524a418b",
+    "repo": "rsmdt/the-startup",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "88d447c7fb846f9d519faf59219cd34cf7577501"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "fc265ba960d19243628b29154e30cbd27fd15b560a5a69262d86ee89d8b46de5",
+      ".claude-plugin/plugin.json": "3478cab9e2623674b80263ae99f42e1c3a07937d7e2e2f99ccdef73922888bbf",
+      "LICENSE": "d4b873d84422663b07c73edb3d8eb263af4a4aed2fcdcf6c0c8e5d18cd98d2bc"
+    },
+    "id": "f86006790173e2157a0f",
+    "repo": "evgenygurin/claude-mem0-project-memory",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "f9d8825a85be4c8688c2e7e8c48ca4f45ba95de2"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "8ade680a9b96ba56fa30ecce7ea014e5074cb54c372e7dddb770c7c517772e7d",
+      "LICENSE": "626ef2fd2ce27b71cf1a870cc49625cfc89c6ee1f3aac41aa0475e7b17a4aa0a"
+    },
+    "id": "4e6ddd32fce522096071",
+    "repo": "Bande-a-Bonnot/compounded-engineering",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "bbc064e35c7f5e4622cdcc8359a3809b11b0ce01"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "5bbb65d0403b1ff25c5c29748d182af15a2c37e4e06387ed91ace5a777dc9fd4",
+      ".claude-plugin/plugin.json": "ddde3d055b636be11c4936143d7ba6e636f3c0ff5aaa27aa57fd70abd44b1060",
+      "LICENSE": "c30e46eb5bbf1e96813016636539a3b19675458b2fa7a14d78e1fb4e4c55c01c"
+    },
+    "id": "4f44e8621c38ed8422f0",
+    "repo": "BITOCTA/pypeep",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "5b84b69b5cc107f26b57ab979a583bc5b6336a1f"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "081f48434d7bed3ff8eae694870c009b5668c5f013b6a618d9430d0fe9ea10dd",
+      "LICENSE": "cdc9589837180918f944ee2e1ead40f466b2c046ec9188a469a9082f6ba7288f"
+    },
+    "id": "bd85902b801770a9e311",
+    "repo": "kgruel/siftd",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "58daf4ac0101a012ff0ea286931fce8e2e621110"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "34cdba4195f1a89849fdbd3039a4da9b295e51d583250d800d06a28d92e2f1c4",
+      ".claude-plugin/plugin.json": "92045064de3c4dbabe83eb8cce83c39646eac53fe23ca30af5d2c2f1512e3352",
+      "LICENSE": "129ac37cec611bc0dfa240de8a88beb8dd19bcfba2e7532ce0a732f9a4737173"
+    },
+    "id": "1e51f691139f24aba22e",
+    "repo": "yihan2099/skills",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "d978dc5999765680f0df76fc58e9f3a6258c3277"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "5b5d9059abbdf6dfdcdb77f016d1fbc35427a96cad8c69d61abfc5ec29abbee7",
+      "LICENSE": "03d74e251e5e0908889933e57337de443989b87a8f43cc6377d21350bdb77316"
+    },
+    "id": "955854005d78e43e13e9",
+    "repo": "jtsang4/dev-browser",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "52932b9efad5ad476e5a7bd32f6fc7197aa120bc"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "fd944231dc8d846d49937755c180b911e30cf69e22c0562e1d2dd7ce010e9058",
+      "LICENSE": "15cc073ffa3a01bb7da145aeae2a842b473860d142c92485536ee9c91195a705"
+    },
+    "id": "e00ab38c8ea9a8fa0d6d",
+    "repo": "transaurus/staging-davila7-claude-code-templates",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "34fa6acf794b9a6310d298cbb8fb8c9420a5edcf"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "758430c2adc1acf9e4bae83b81c2022c66ce1b05454dacde7a8d619e0bae1d68",
+      "LICENSE": "44db6de70238d2f7d3349ead897dac7680d1fe53c4040774da02a83c4973bb07"
+    },
+    "id": "25b3cf0d431636cba576",
+    "repo": "TanSento/FinAlly-No-Market",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "86e983f147574d8336a1103f98750f191efd9fe2"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "67c0e31b652ebfadec75d9060704668e2575b7d34c8c4040df1275880c45ecb9",
+      "LICENSE": "ab42474783c5a295123d03f09914e0d182a1a77d4a8c937eeb53767a98c8baf1"
+    },
+    "id": "a1ab23ba344fa2492c03",
+    "repo": "kossakovsky/cc-plugins",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "9c8b715e9c11cac33980fa2e0826f79df946f52c"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      "LICENSE": "b25d519deb4c92e9d79a00b0af889a39f759c2c251b9786da4062c67dc7056e3"
+    },
+    "id": "be18c29263dd2415b6db",
+    "repo": "kevinswiber/mmdflux",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "c7405b64865938b2df4d33d26389d51691409913"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "f5fc9ba591fca016e8a14c08b5a5b66d0fbc22a9ec7179d44c1f25cc5424d97d",
+      ".claude-plugin/plugin.json": "5e133c15668b6853ef2f9751b9b26847c1d5f8a7d4e287682e306e5fa3cf4e85",
+      "LICENSE": "97ffaa275d6d2574b1ae4827f5efe12e23667d9ffe1635226662ed4ddcfc86b5"
+    },
+    "id": "627057a8e788fb343eea",
+    "repo": "symoon94/moonkit",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "36f86bf9dbfed31bbe8dbabd8e24e5791fc50eee"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "be8ade60c2bd2d395768f20222e521e97ccdf540e13afc727428ec4516601cf9",
+      ".claude-plugin/plugin.json": "17b3b7eefb2e3600d2f67cec6918d4104685db688d2397f237ff6ab846fd0a82",
+      "LICENSE": "8f5fd8e5cddb015b5627e45e68b256356586144288a4a0a3db87e38bcb0c9155"
+    },
+    "id": "a2711c787241b35b8e35",
+    "repo": "attentiondotnet/Xcode-Build-Optimization-Agent-Skill",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "e4ffde8d6ddd57241bb8a55d80d3e35c0601666a"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "eb9f654ab8894ef74c199c7d3b3c348354b82e05039e9f947b9d9f7fee6f5611",
+      "LICENSE": "791d478629cfeae00ae2d4159e361a4fbdc19c6239f0c2653daf8c70f4943c94"
+    },
+    "id": "1bb517daad9bab260435",
+    "repo": "joyqi/chatchain",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "a631cabdf8f36548e64f799195ae05dd8c2e2810"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "84c07bb85e14a7404af2cb2104f8103f89f148c4c0b335a4a132bcaae2aa2105",
+      ".claude-plugin/plugin.json": "f0dd052f82df9caf074a45948c749da636f3fe102bf50d603b880989c2bcad7b",
+      "LICENSE": "458b3eb3fe01b29a404dec9149449a2de31f6bad78638db945d12a9d4fdda41d"
+    },
+    "id": "f8c279744e510d273133",
+    "repo": "rkaushik29/claude-correct-habits",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "509697fb58c6c289dc579ff1fd12fb57a95b3dc4"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "2d99045fcb6e69f3ab4a41672dec8da04385fc7b5884d81dae14e2ed8ad03527",
+      ".claude-plugin/plugin.json": "f8c14557bf05eb549eece67dea3c617ba8f9b77e334855eb57fea7543351c0d1",
+      "LICENSE": "175725e4ecb418b411b5e27fb8eeadfc47a12f191129949c746dd772a1b181ae"
+    },
+    "id": "a5524b9fd515acf62619",
+    "repo": "blotoutio/skills",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "ada33ec4fc1dc46b895037db223ff410d16e9978"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "fbe7f0921a992435cc87ac6201c595236243db867b0e69372a4fe5b1c75251e6",
+      "LICENSE": "073a4d76115e55728ae98141e899fd442fe627bfa1ecb5cedaca2c312fc27373"
+    },
+    "id": "c2df5230a72081d43819",
+    "repo": "TheAxelander/claude-plugins",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "e0241ee8118c6650cdd9130894b3fb93b05a67b0"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "ad6ac7b7741d6edab76775ba52bd5c237856224489530183ea20fb24f1a2f2f3",
+      ".claude-plugin/plugin.json": "c7a545aa7aa55e1eda1419ba92ac3fc54cce69ba83132e269ee37b16a7470279",
+      "LICENSE": "bae43926a826e0a6561bd0661107c631a8ddb67e018b763d0893ed6565369130"
+    },
+    "id": "3e6ce11aa6ab27a542ad",
+    "repo": "raiderrobert/sauce",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "85b2d32908d377237e081ec8cbb7e8c685277ade"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "aa058464277d3f3b260f365aa43c4356ef0efde6e7c7a27e7464aae48162566b",
+      "LICENSE": "32ef688a3e3c3b0c811cb5909788e1e4af711f2a672ee3a9941702e6603aa33b"
+    },
+    "id": "88285ec10541aae73946",
+    "repo": "jeremylongshore/claude-code-plugins-plus-skills",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "7a81b1a72be043efdc23316308d023860bfdde7d"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "8fa421375d606e3298d5d04a2d52c6c9d99dc7c389e8391ecf510c08ac247ac8",
+      "LICENSE": "a69c94a33eedb095d7e39ecc66a3ba282864e7b4ecf3c5c40d4d00efd18d488e"
+    },
+    "id": "932509a005526d2d8ed6",
+    "repo": "aaronbassett/agent-foundry",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "1a7df0c93e548847e0942113013abe6b363ffd54"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "26d3dc950759676a328c02af56e5ee00637d4972e9b5d4b12e3517f5158a4cdc",
+      "LICENSE": "f5b0b31cedbc8012a0e32de384feaa8cd19546821111a07f506682c326df3ec3"
+    },
+    "id": "1ba72cd3770f4266bf94",
+    "repo": "volcanicll/cc-skills",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "a78e533ca8a90beb6fe6e9a97a626cb82c895231"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "6ddf34fed5ee82ee0b5fbca3fb544f2af42a786327fa44ee10129d007ae5c5f5",
+      ".claude-plugin/plugin.json": "52208f58f72c5bf81a6e8c453d4e922ad322995a47955a28f5769c4489d3f7e8",
+      "LICENSE": "16299bec2b333c78edf52db341faf6d171b880166745b228ba284e3adbab09c7"
+    },
+    "id": "d3b1447a2e6141bf948f",
+    "repo": "224-Industries/webflow-skills",
+    "selected_licence": "MIT",
+    "stratum": "MIT|both",
+    "target_commit": "352fd456ab1682a3a1c288dbf5a586432c7ac64d"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "a78499e7f9ef1d8950e928f4feeeb3b21f7ebd9573fe9321307f83fdd41bfc6c",
+      ".claude-plugin/plugin.json": "cd69b7e5fb1c9eb6886c464a595c1d2b90dab33145cca0f688c824a61aedb9f7"
+    },
+    "id": "b707ee3d75fbd0c142c4",
+    "repo": "tapanshah/Last24hrsSkills",
+    "selected_licence": "MIT",
+    "stratum": "MIT|no_text",
+    "target_commit": "f54283452b182a8f200c28c4f4d5ca1c81d42eab"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "195fa8a6bd54a30a716e2bd5bd4ce8daaf0b6b4ea901025612c1bc30455f005e"
+    },
+    "id": "34c1208e66906a066b87",
+    "repo": "vcode-sh/vibe-tools",
+    "selected_licence": "MIT",
+    "stratum": "MIT|no_text",
+    "target_commit": "620fa27ccf4d75601eae5da65c028cddd07e0bb9"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "f781adf0bb82e580a5d074f955e9cbe47002994886c594606c2a8aad831fce61",
+      ".claude-plugin/plugin.json": "168321e79e4a406c82bee5eb95ef1dfa6a35bf269c8d092d2086e245621b9f0e"
+    },
+    "id": "11348216c82f342882bc",
+    "repo": "hnegishi/rpi-workflow-skill",
+    "selected_licence": "MIT",
+    "stratum": "MIT|no_text",
+    "target_commit": "95669376e53d4d6b12f05bea0e01d79de46b63bb"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "69cd2e38be8b6a3b646745d4674df651ddcaaf40fdd64a59b133eae7530e29cc",
+      ".claude-plugin/plugin.json": "f497f95d40f39d73e51c8d7f8505833aab8107314c6cfab963a17fa19fd9d213"
+    },
+    "id": "761ac9a4e0fc7de61c3c",
+    "repo": "En-Nam/ennam-claude-agent-team",
+    "selected_licence": "MIT",
+    "stratum": "MIT|no_text",
+    "target_commit": "658bac3bf5d5cb87247ddc3188fa4a3a8bbe2401"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "5587c1222f139ea6398380b51524f985508dc8348b1caa6a7edc2935746cef17",
+      ".claude-plugin/plugin.json": "5175ee0d4169cc15a1f256a91b678e693d725e8ea7cdf7a9ecb6a3258938f08a"
+    },
+    "id": "07dc38b045fd071cdd57",
+    "repo": "jayzes/engineering-leader-thought-partner",
+    "selected_licence": "MIT",
+    "stratum": "MIT|no_text",
+    "target_commit": "47b7f087a6db5cb2ee3fd6ec33e0cddc526579a4"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "31289ba6cc69a80a1c3627b35230dd64a125f4cfa0ab3114932c36e1eb1339ca",
+      ".claude-plugin/plugin.json": "35acdbb65a6717c0ef1e4129f4f0a8e6207600aa14711010b299aa5f4322dc04"
+    },
+    "id": "25158ba0a4b041747325",
+    "repo": "androidyue/claude_code_plugin_example",
+    "selected_licence": "MIT",
+    "stratum": "MIT|no_text",
+    "target_commit": "c49791a8f7bbd64c209a91941dc2f02d81003661"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "d9eb6b0a45ba412f7f2d9bbf3e22d43f63c8c524bcc075bc5804072a83b133db",
+      ".claude-plugin/plugin.json": "e96eb0c8a2c99ad1c1e42f8a9d205e3b180cae5e2c9ad5ae40495938ddda08b2"
+    },
+    "id": "807ff36bad782b4cdf66",
+    "repo": "jufaldanabo/Marketing_agents",
+    "selected_licence": "MIT",
+    "stratum": "MIT|no_text",
+    "target_commit": "b6ca74b9dba834a169db1afbfbdb5bc7298a2d5a"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "fa030c1842cec06f3029cc8952412364298ed42bbacea9f3487fb10ec0d745b8",
+      ".claude-plugin/plugin.json": "14b9c9bca56c461277affcf7f4c289ffcc9cd28dfb7baf3df16e8138e043a60b"
+    },
+    "id": "4446fda341f6c0f464a7",
+    "repo": "Genuifx/claude-done",
+    "selected_licence": "MIT",
+    "stratum": "MIT|no_text",
+    "target_commit": "f9a142736e5419eaf11081b1fe1320c7c06c7287"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "a4865c1635ea59900a94398b81735c4611868eaede78388ec4d4bb4993a2eaf5",
+      ".claude-plugin/plugin.json": "f6837022bbf7e5a4029d58633f473259221e1b7841a66d76e0fc21abcbef9ea9"
+    },
+    "id": "7db6e280bd73f3d19e4c",
+    "repo": "adverant/adverant-nexus-cowork-plugin",
+    "selected_licence": "MIT",
+    "stratum": "MIT|no_text",
+    "target_commit": "79fac29c1ed6e94e73d61f1dbcf1b433441cd304"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "6d0a75c9057316dce27352f221294ef9d8eff9ce2bf19167ae4cf49aaee90b38",
+      ".claude-plugin/plugin.json": "57d843a959c38f29535e69f68b204b5b2b5ec02a9ad1d1e0a13c9998e1bbd183",
+      "LICENSE": "d13899cd96d284a6d9f130dfcf19fb3ee5f7e3be3ec627cefa5ff9d9d6023136"
+    },
+    "id": "c96c2437c02a5a20137c",
+    "repo": "thinking-machines-lab/tinker-cookbook",
+    "selected_licence": "MIT",
+    "stratum": "MIT|no_text",
+    "target_commit": "1e53aa3d1cdd6389b3290c2574641eccc0503242"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "5d3c3d89f8611af2c8638d748c36f0dcb1c427693a52d9b45c9ed78448b30f64",
+      ".claude-plugin/plugin.json": "126e76fb5379391df0cc84ff01e1242f7a80acf3cc8e417046d096e52ebc9175"
+    },
+    "id": "89ab705994608bf63f3f",
+    "repo": "ampactor-labs/tokensafe",
+    "selected_licence": "MIT",
+    "stratum": "MIT|no_text",
+    "target_commit": "76161b7bb37ff30d5dc7400dd8ef27c72f1300c2"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "32b06f7a9e1ad8c6bf2d874f9f79a4e6d4d849141e65c569d237cbd093081b40",
+      "LICENSE": "2a209cdc0f3b9c740a1163db279eb4cc68ec5adafc3b16076043424c174d3309"
+    },
+    "id": "1aeb06faacd8601c67ca",
+    "repo": "knowz-io/knowz-skills",
+    "selected_licence": "MIT",
+    "stratum": "MIT|no_text",
+    "target_commit": "5478e444fca271c5ad7e0181b5c4d5f778bbbca0"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "bf8d2480bac777552da9b0fad4103b8beaeb0c970dd749109f6c5b0ebfac18eb",
+      ".claude-plugin/plugin.json": "ae8d73bd903dad4677b5cf94d8db7c73499d37ebd91d526112c530956b97560c",
+      "LICENSE": "1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685"
+    },
+    "id": "daa5a4b253d557fbb789",
+    "repo": "tondevrel/scientific-agent-skills",
+    "selected_licence": "MIT",
+    "stratum": "MIT|text_only",
+    "target_commit": "6e89d9e8c84188050bd50c420e48b639be484bb9"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "c1a26f9de6d45940afbdcd60bfe249abcf394e64bf10be116208f8a328eebc98",
+      ".claude-plugin/plugin.json": "cf33e254ed42c01150ab3f26434a4683a542780e855543f9300956c76bcc0c66",
+      "LICENSE": "3b57dc144a971317b39a13138ec8353153d4e39a35f8c5e9b1e22dbe54a3d196"
+    },
+    "id": "7ff88895ce862ef11d80",
+    "repo": "syncupsuite/webplatform4sync",
+    "selected_licence": "MIT",
+    "stratum": "MIT|text_only",
+    "target_commit": "387c513d72288387520661639c71a19942219ff1"
+  },
+  {
+    "arm": "plugin",
+    "baseline_root_context": {
+      ".claude-plugin/marketplace.json": "d05e4366a56bc49774dcfba78b36c8e0423c963bb43657ecfee2e8db92438422",
+      "LICENSE": "82f9b29d5fd7b63d9edbed758fd4dea4d161bfed9893c341ac373f3e4569f185"
+    },
+    "id": "a42406b89a5a6e42c942",
+    "repo": "corewebvitals/cwv-superpowers",
+    "selected_licence": "MIT",
+    "stratum": "MIT|text_only",
+    "target_commit": "1d4b4c029c22474b65aa1ac60b7d6938352f5686"
+  }
+]

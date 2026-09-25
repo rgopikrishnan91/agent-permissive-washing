@@ -1,0 +1,655 @@
+{
+  "arms": {
+    "mcp": 6737,
+    "plugin": 5976
+  },
+  "missing_pinned_commits": {
+    "plugin": 24
+  },
+  "partition": "Deterministic round robin within arm/licence/baseline strata; seed readme-cloud-full-v1.",
+  "pilot_collection_inputs_identical": true,
+  "repositories": 12713,
+  "shards": [
+    {
+      "arms": {
+        "mcp": 106,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 199,
+      "sha256": "f102020c914f0459703d052440ef0d8cf6f2be7e2e7ce43f61018fc7b5e2a1af",
+      "shard": 0
+    },
+    {
+      "arms": {
+        "mcp": 106,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 199,
+      "sha256": "7eb580279dd08a249e4293c304e4694d727f0eabf8fb8185ac136478b7ed6b88",
+      "shard": 1
+    },
+    {
+      "arms": {
+        "mcp": 106,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 1,
+      "repositories": 199,
+      "sha256": "80487c13d4b8fbd86cbb595bc4e13e511e7e5126a2fc39044a0a1b0ada5178fa",
+      "shard": 2
+    },
+    {
+      "arms": {
+        "mcp": 106,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 199,
+      "sha256": "cd2d7cb322da753ae13bbbc4e21d74e7c0c961aea283d0af78cd7a187b5be912",
+      "shard": 3
+    },
+    {
+      "arms": {
+        "mcp": 106,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 199,
+      "sha256": "6d6e60d8be685be2ac13665e013bf392593456b8df342990807496acbcbb7d1c",
+      "shard": 4
+    },
+    {
+      "arms": {
+        "mcp": 106,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 199,
+      "sha256": "9f69d2fa52bf0264aa2fe04f451b4548703180eb0a602ae723ad2484b0dada38",
+      "shard": 5
+    },
+    {
+      "arms": {
+        "mcp": 106,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 199,
+      "sha256": "3198e91670d27fe35fd120cdc07834d738f24d7ce1e016df800bd6e6f4202eb0",
+      "shard": 6
+    },
+    {
+      "arms": {
+        "mcp": 106,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 1,
+      "repositories": 199,
+      "sha256": "c7f294a9c4b2c41f7d94c53b2c52d6a8a9182380d16bce213741f32bc0d70f17",
+      "shard": 7
+    },
+    {
+      "arms": {
+        "mcp": 106,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 1,
+      "repositories": 199,
+      "sha256": "3a82ea113dc499dd6c2e13743d48a83d0f0da58f3ef13d371846c99553a1da54",
+      "shard": 8
+    },
+    {
+      "arms": {
+        "mcp": 106,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 199,
+      "sha256": "8b2db5bc6c109ef59e66055edb3d20a9c6ce70675db6eeee94dd48f627830b45",
+      "shard": 9
+    },
+    {
+      "arms": {
+        "mcp": 106,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 199,
+      "sha256": "7dab4e9e2564acf01e699743efd9f6f8306442366f379522c7b90c509f1d3fbf",
+      "shard": 10
+    },
+    {
+      "arms": {
+        "mcp": 106,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 1,
+      "repositories": 199,
+      "sha256": "4bc5c2f304ac3cee4436957487bccc47892133e9ebc164a37b94d5501152a5d8",
+      "shard": 11
+    },
+    {
+      "arms": {
+        "mcp": 106,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 3,
+      "repositories": 199,
+      "sha256": "acde0cf317d0b6fe4e5b5130f50f1bba589b8b9bf56a96d9ab26a7fb5cbfa805",
+      "shard": 12
+    },
+    {
+      "arms": {
+        "mcp": 106,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 199,
+      "sha256": "9f86ce2c327204a4671f25a341544e55562a072a256fa989dc0d6a246fe973ca",
+      "shard": 13
+    },
+    {
+      "arms": {
+        "mcp": 106,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 199,
+      "sha256": "42da792417155796205c44de60d07e53fc0c5027385158e96599c67340f49b25",
+      "shard": 14
+    },
+    {
+      "arms": {
+        "mcp": 106,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 199,
+      "sha256": "83fc8aca0d77082d5c158d75c5d388ba04124e2d3a667d84d3c7a8438b0e9b48",
+      "shard": 15
+    },
+    {
+      "arms": {
+        "mcp": 106,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 1,
+      "repositories": 199,
+      "sha256": "1810430a2798dcb2d75add7a6a7e6f57217cfd8797dbf6c993af49ac1d39b47b",
+      "shard": 16
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 94
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 199,
+      "sha256": "85f16e362eea9a04fa50c9ac12bdcd402de9ab5bac976895e5fb4046aabd5837",
+      "shard": 17
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 94
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 199,
+      "sha256": "ae80fc508ded6be963c681df4ed64d050dbc41e0baac93c2e3a66db54085ecb0",
+      "shard": 18
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 94
+      },
+      "missing_pinned_commits": 1,
+      "repositories": 199,
+      "sha256": "0a43ff37ae919cb0a068c1153e455e48d2f1891c4e09557ff8a8fc75e29d615e",
+      "shard": 19
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 94
+      },
+      "missing_pinned_commits": 1,
+      "repositories": 199,
+      "sha256": "3876dc7109c9cc823b9a96caa249ce8abe94fa8a420baf3497a84fa70fe7ebce",
+      "shard": 20
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 94
+      },
+      "missing_pinned_commits": 1,
+      "repositories": 199,
+      "sha256": "e6f24dfcbe23160dcf9ef8384d5df47380434ab047b5e75b4f057277b0dfa88d",
+      "shard": 21
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 94
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 199,
+      "sha256": "44f290bc57086df3a5c70dd07123463eb1b1693e0747f251f2f20ea8d654dfba",
+      "shard": 22
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 94
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 199,
+      "sha256": "fa01c5a9ad34ceaf91187bb9dddf7375748b1af26eedeb4a78fd06ecd55852e0",
+      "shard": 23
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 94
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 199,
+      "sha256": "82c3cd2efa2ac6cb569ac7f67dd28e50c5a6940b7363c7ba1fd0e3f5fb87d046",
+      "shard": 24
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 94
+      },
+      "missing_pinned_commits": 1,
+      "repositories": 199,
+      "sha256": "a7c2026ee36e5cede79efe200e0c6826a9a7d7088d143ac7bbb5bc0e780104a8",
+      "shard": 25
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 94
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 199,
+      "sha256": "58b55dfb4e8ee3f6925fc2cde705bfecf9aac417e7e5d1c3db6835ef37d281dd",
+      "shard": 26
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 94
+      },
+      "missing_pinned_commits": 3,
+      "repositories": 199,
+      "sha256": "4b852d403a06867a3d70023afd8d979e63784d5494393bb971eba3158aabe732",
+      "shard": 27
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 94
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 199,
+      "sha256": "852e66369c96e626042955d80a1ad5b2ca97e382109fd05aaf2c6c25c126625a",
+      "shard": 28
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 94
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 199,
+      "sha256": "e38c847ddca986cfe38f869d58a443170d47ea7f5385ecf5de841788edaa9c03",
+      "shard": 29
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 94
+      },
+      "missing_pinned_commits": 1,
+      "repositories": 199,
+      "sha256": "dc12d0816872a907b9a97e04fcc547d0f62c16ad5c53c31882c3da85988113ab",
+      "shard": 30
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 94
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 199,
+      "sha256": "36543b75d9c2f48270d26597c1239d544192d6d8064528aa69b1a6bc610476ed",
+      "shard": 31
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 94
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 199,
+      "sha256": "1b0e7efe4de0af7c2c063bfbf5fab73fba36560add086e649da650045310fe1e",
+      "shard": 32
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 94
+      },
+      "missing_pinned_commits": 1,
+      "repositories": 199,
+      "sha256": "29355af5df606d81414326522cc8d8161bf97eedec7e0652a69577d8a72ef784",
+      "shard": 33
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 94
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 199,
+      "sha256": "e5a4fd384a7905e627503221c953bb7702353cc50fda976b3b68bff8bc5f18f5",
+      "shard": 34
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 94
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 199,
+      "sha256": "90a11f6196eaf05e47ffacc5128974e409d8433e7089e76ebfd80330e916fc2c",
+      "shard": 35
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 94
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 199,
+      "sha256": "97eafb2868f0f63fdeaa8c5ddd11570e4b5de5984fc39d1efacb8ebd3474a8dc",
+      "shard": 36
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 94
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 199,
+      "sha256": "da66179f568f7dd11d0b6ee43c2fc915bab4ecc8867466c7701f52651d8c18fb",
+      "shard": 37
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 94
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 199,
+      "sha256": "b8f5a4646d043cb2b332d786615c23b2b8f6bc5895f069ddce175a1726e0b18b",
+      "shard": 38
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 94
+      },
+      "missing_pinned_commits": 1,
+      "repositories": 199,
+      "sha256": "48ed9b3a32afda9599f8250397ee584db7b5de35fe45a51839c34848f8d00ed1",
+      "shard": 39
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 94
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 199,
+      "sha256": "4faf698add64ca1c65a0a7f6a160749315e2cf11ac5f1cc717b083c65c0431a1",
+      "shard": 40
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 198,
+      "sha256": "7d3cf1fa5267e6d639db352ccb6c14d0d8707fd8d9f3738e2aee793f02425c27",
+      "shard": 41
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 3,
+      "repositories": 198,
+      "sha256": "2baa1903d4fddff1edfa7098177f35e9b124e562daf977e8947c2279e29fe093",
+      "shard": 42
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 198,
+      "sha256": "62423d5c5d9a2952439e2a17111b8ece6c4b9d2df0e66e8d3747a7f8f149d074",
+      "shard": 43
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 198,
+      "sha256": "f9b26e4618c19deb44804636a31c8617237856d106ca789f0e71c360126a01af",
+      "shard": 44
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 198,
+      "sha256": "eb52fc06a9beb8be25ac051002feb3835b75013755d321647301b4e4a4a22be3",
+      "shard": 45
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 198,
+      "sha256": "9c80770e0c6464b91bbcdfa5779164d05345210b1df18c201fd52c98f669ff65",
+      "shard": 46
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 1,
+      "repositories": 198,
+      "sha256": "0f7bda1ea7aead92af74b55a999e3155157b479b7b440ee435b1827cbe33a350",
+      "shard": 47
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 198,
+      "sha256": "5363376cd3aeb74fcd1a6b659af25516e076849893f42acadc14721eac266ad8",
+      "shard": 48
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 198,
+      "sha256": "9e1ca3f23b2b31b98e11b4da0abebc7120d2b480f1090d23daaff1cd1839acf5",
+      "shard": 49
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 198,
+      "sha256": "baa3e162accfaad02b45257750e35505fe5ba3cc275e769601bd22927234eba2",
+      "shard": 50
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 198,
+      "sha256": "14bf0efbbf709887411bed4384aad3dbadf867177fea86f7446adbd785d8745d",
+      "shard": 51
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 1,
+      "repositories": 198,
+      "sha256": "7f3e3060aceb10678fcbac014256595f91f784b2ff453542ed93b50ab6626f51",
+      "shard": 52
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 198,
+      "sha256": "fcbda1331a5da72908131c5ba17300a9416e2dab3400a7c880e88d5dc6e80f0b",
+      "shard": 53
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 198,
+      "sha256": "8e70d5eefb16ef941b6c006f8117497530c96c40d7f5350742611f6b206de5fb",
+      "shard": 54
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 1,
+      "repositories": 198,
+      "sha256": "3ed737ff26df615b0d15e6c54c2a5714c9428951497bcc6c8f87d835b373cfbd",
+      "shard": 55
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 198,
+      "sha256": "0acc9852b11c1593f1830d3e94cf4032dd1ca244902d23d33b0cebdc3abed8aa",
+      "shard": 56
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 198,
+      "sha256": "41fa406890e74032126e99fe1c4580ca012e6143dd950ffcf2ff9abebb5c37b5",
+      "shard": 57
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 198,
+      "sha256": "8a3ba5e445891a70f5fdbe892e51e970210d348bec1d42d9959c87c2f1f0b7ec",
+      "shard": 58
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 198,
+      "sha256": "e1c7fded711b07bea296dd8860132c3bef8485bf09660c9d927f207cb13e722c",
+      "shard": 59
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 198,
+      "sha256": "6d6143829bbe859cfbe9668373d3d469b14ca59b810ecb879d5ba83f428e6ff5",
+      "shard": 60
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 198,
+      "sha256": "bb3fceafe24b6ca17c8a5c45b193dac843c77fd8b128bcb0ed23a4c303d9cb33",
+      "shard": 61
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 198,
+      "sha256": "f146c631faf7db3cff7a8b0e2084a02b95952a5668f826376be6b6f00b286d56",
+      "shard": 62
+    },
+    {
+      "arms": {
+        "mcp": 105,
+        "plugin": 93
+      },
+      "missing_pinned_commits": 0,
+      "repositories": 198,
+      "sha256": "c70f17f43b9a304151561b85613a186b00363c420d0cc2e08afab041dbd61bce",
+      "shard": 63
+    }
+  ],
+  "snapshot_note": "MCP commits come from the original source harvest; Plugin commits come from the later cached README harvest. Preserve this temporal distinction in analysis."
+}
