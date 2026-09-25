@@ -1,0 +1,986 @@
+{
+  "baseline_text_missing": 188927,
+  "baseline_text_present": 15577,
+  "batches": [
+    {
+      "directories": 4457,
+      "repositories": 299,
+      "shard": 0,
+      "skill_occurrences": 3269,
+      "target_sha256": "950b4cc11761f5347551a7b4f18b2ae7d968a314f367c2c44ddcd1a628e78ba7",
+      "targets": 299
+    },
+    {
+      "directories": 4457,
+      "repositories": 299,
+      "shard": 1,
+      "skill_occurrences": 3301,
+      "target_sha256": "05f2adbe6fb1e30bc90b53cc3bb4a2c7feba01e65822180b81fdc0968f0dc630",
+      "targets": 299
+    },
+    {
+      "directories": 4447,
+      "repositories": 300,
+      "shard": 2,
+      "skill_occurrences": 3287,
+      "target_sha256": "0a84cdc8e3f8ada28dee6964fdabc6d28d37fe7c44f57c22ecc32986e1d0eac6",
+      "targets": 300
+    },
+    {
+      "directories": 4447,
+      "repositories": 300,
+      "shard": 3,
+      "skill_occurrences": 3334,
+      "target_sha256": "4af52a7edf39131c755d27f39e3213d0b5f812f7e7e069b552de302d5a9b477a",
+      "targets": 300
+    },
+    {
+      "directories": 4447,
+      "repositories": 300,
+      "shard": 4,
+      "skill_occurrences": 3217,
+      "target_sha256": "1c01921143f67807242eccf3f6d5b588f6ae09a29029f90d8748c778b2b2043c",
+      "targets": 300
+    },
+    {
+      "directories": 4447,
+      "repositories": 300,
+      "shard": 5,
+      "skill_occurrences": 3112,
+      "target_sha256": "2c79444128f4477640b2c05262b20b5e3dc597d283f86a6a7413b34ef708407e",
+      "targets": 300
+    },
+    {
+      "directories": 4446,
+      "repositories": 299,
+      "shard": 6,
+      "skill_occurrences": 3366,
+      "target_sha256": "113d4b3fa1a5ec3965887727cbf684947ccdeddf0643313d65b98cd0037cfa5e",
+      "targets": 299
+    },
+    {
+      "directories": 4446,
+      "repositories": 299,
+      "shard": 7,
+      "skill_occurrences": 3232,
+      "target_sha256": "94ef8239cc482b54a2ef26476e7641dc589087a256a7e22544ae35548a03736d",
+      "targets": 299
+    },
+    {
+      "directories": 4446,
+      "repositories": 299,
+      "shard": 8,
+      "skill_occurrences": 3120,
+      "target_sha256": "e21d4eea5d9531b3ac15cda4b6dedd3101e29496e7036c13fb4fb6f524efa8e3",
+      "targets": 299
+    },
+    {
+      "directories": 4436,
+      "repositories": 300,
+      "shard": 9,
+      "skill_occurrences": 3294,
+      "target_sha256": "f7893dd4bbf94f9ea1e10932a3b20ea91e382df66a8b798fcc3f57a5d367b459",
+      "targets": 300
+    },
+    {
+      "directories": 4436,
+      "repositories": 300,
+      "shard": 10,
+      "skill_occurrences": 3218,
+      "target_sha256": "4a2a8cf7a2b3f0c901ee98f1acf9a70c5c832c022e3ec9d4192324b6108b9037",
+      "targets": 300
+    },
+    {
+      "directories": 4436,
+      "repositories": 300,
+      "shard": 11,
+      "skill_occurrences": 3182,
+      "target_sha256": "6de7dd322ae811a1584247f29a694088749e0407bff8e61f8cfa80dc2bac3bec",
+      "targets": 300
+    },
+    {
+      "directories": 4436,
+      "repositories": 300,
+      "shard": 12,
+      "skill_occurrences": 3263,
+      "target_sha256": "c491b8da75bdbd0cd4642576946877534b10fa2ebe50368cd41959fb153ac0e7",
+      "targets": 300
+    },
+    {
+      "directories": 4436,
+      "repositories": 300,
+      "shard": 13,
+      "skill_occurrences": 3361,
+      "target_sha256": "db0fda89cb3a9eea00c38f1058b75d5b3209444d5b8b027108b2975323c5384a",
+      "targets": 300
+    },
+    {
+      "directories": 4436,
+      "repositories": 300,
+      "shard": 14,
+      "skill_occurrences": 3323,
+      "target_sha256": "c9aa4cd154ec0472cbf13fbe1446a5c154561b2efd78d79a346f95cfd2475776",
+      "targets": 300
+    },
+    {
+      "directories": 4436,
+      "repositories": 300,
+      "shard": 15,
+      "skill_occurrences": 3274,
+      "target_sha256": "6ce5fde2ef2013cd768e0d8af07876f9d5f0b4782f29e2a60152fca0b6ee31dd",
+      "targets": 300
+    },
+    {
+      "directories": 4436,
+      "repositories": 300,
+      "shard": 16,
+      "skill_occurrences": 3324,
+      "target_sha256": "8148fd5f6eb281f31ea1b763fbb5d8b32c0192370f311ac8bcecc4ad0b860255",
+      "targets": 300
+    },
+    {
+      "directories": 4436,
+      "repositories": 300,
+      "shard": 17,
+      "skill_occurrences": 3360,
+      "target_sha256": "c1b2f1869f816279cb1cc5603287c5e67f0fd0c7cce1216169be70ae65373ed1",
+      "targets": 300
+    },
+    {
+      "directories": 4435,
+      "repositories": 301,
+      "shard": 18,
+      "skill_occurrences": 3131,
+      "target_sha256": "0aa42342f0ca4b4847df8003e4f20982ae4502a5cd6a295bb95cec926338c57b",
+      "targets": 301
+    },
+    {
+      "directories": 4433,
+      "repositories": 301,
+      "shard": 19,
+      "skill_occurrences": 3184,
+      "target_sha256": "209b106b98981ef14496e72eb7a226abfd923ca6c8bd6ebfb380d7cca93bd207",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 20,
+      "skill_occurrences": 3171,
+      "target_sha256": "8b1a0cbbcc966adf24a697db68cac3cc6f8c0c4b40b1f6ecbf754bc3ad04b166",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 21,
+      "skill_occurrences": 3288,
+      "target_sha256": "f1ae52e28c54b97cd91a8042b45a1a3cdf7ad61ff8b489a1976802ab75d253b6",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 22,
+      "skill_occurrences": 3279,
+      "target_sha256": "7520c81ef5ad5807a9d9741b6c3c40a8a141fc93b9ad92df767d69be9df665b7",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 23,
+      "skill_occurrences": 2926,
+      "target_sha256": "7e704800447564d645f9bf5eee50844fc732592559846e4fde104e0818d93459",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 24,
+      "skill_occurrences": 3237,
+      "target_sha256": "9f0ecb126e2e9faebf4c3605f897e23477bcf61467ece4ba76a39cbbe45d8ba9",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 25,
+      "skill_occurrences": 3272,
+      "target_sha256": "9c8beeda916719ba4227f1d079c161b478d2894257b7385469763bbb9479adcc",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 26,
+      "skill_occurrences": 3068,
+      "target_sha256": "e3a0092ad9a0eb030081f418fd000a7cb24fffd8232e76052bda28779562b4c4",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 27,
+      "skill_occurrences": 3275,
+      "target_sha256": "213fab6bd29d117f77cbde70c4c9541881b1db659885d3be2ad877913479384a",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 28,
+      "skill_occurrences": 3067,
+      "target_sha256": "450bb801e259348025b3fb67076f74bf83fa4fdb5065b1e89b8227c7bb28afc4",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 29,
+      "skill_occurrences": 3332,
+      "target_sha256": "4ce747226b9530654043bef01f896525f972daabc7476f0e758b4b4bc9a727da",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 30,
+      "skill_occurrences": 3230,
+      "target_sha256": "87fc15cd96d8911d35eedf9ef5b3d4ebdf6b5c9ab26dc8d8e33ee9d125f8b71e",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 31,
+      "skill_occurrences": 3173,
+      "target_sha256": "278445ba519dd8fcef9f87934894b8c20c3574639983a28077b8d98361338361",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 32,
+      "skill_occurrences": 3123,
+      "target_sha256": "ba557f3369c774f3d5d43ddd7e573bd20db2e86534b3092222e3c7c9de6b7351",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 33,
+      "skill_occurrences": 3026,
+      "target_sha256": "f52244f97d70bff3634823c6d019d6e198004d166d0d95dbce92b0710f11f0f7",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 34,
+      "skill_occurrences": 3116,
+      "target_sha256": "cb33f213a584590e571246a657c1feeacf0b2cda9e3f7cc4b7f0facca88b76d7",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 35,
+      "skill_occurrences": 3219,
+      "target_sha256": "326b89499b2576e7a25fd76bb326eff4dcb7502346ba59e9166725883bd9c70d",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 300,
+      "shard": 36,
+      "skill_occurrences": 3203,
+      "target_sha256": "3654380fb7f5cec617cc9eb58d7e9a9b8942d7fa84d13f19216478c957f0e558",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 37,
+      "skill_occurrences": 3121,
+      "target_sha256": "962a319ec7c3017811c918598af531b36598e63de74a76b678f845736ab12f3e",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 38,
+      "skill_occurrences": 3165,
+      "target_sha256": "7625ec340f0f4beee7edffc3935e63cc79811a5e324f3980d71696ca2fc335f1",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 39,
+      "skill_occurrences": 3191,
+      "target_sha256": "38c4d200b6f15d3d220ec74a0a98f1e4c45f78bc0f981d829493407f7413e749",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 40,
+      "skill_occurrences": 2944,
+      "target_sha256": "d0f6a849f15c9f75c500f8a538d29cdd8d4a23b9e67debb087b20a741c1bce06",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 41,
+      "skill_occurrences": 3208,
+      "target_sha256": "b72b7a53738ed03439e2d76883c9a025bfe358a9734636e3b76b67ac560814cd",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 42,
+      "skill_occurrences": 3275,
+      "target_sha256": "22c2844c48f7581df00272175299a0f56dedfd7e79c8a6a2ae38595d51c24e28",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 43,
+      "skill_occurrences": 3194,
+      "target_sha256": "43a7f4a123d30e78e4a829588b5cad2b1060cc56ba652b352a25709a0091809a",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 44,
+      "skill_occurrences": 3167,
+      "target_sha256": "8c74667ecfd28918bca61354fc4e775f9a030e9731fdb003c81a19e077f0590d",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 45,
+      "skill_occurrences": 3344,
+      "target_sha256": "7c7b50c4d6e1a388b82c380026121d1d3032687b6099a9c71f63271a739560f0",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 46,
+      "skill_occurrences": 2447,
+      "target_sha256": "ed2f54216a1c27883585c0a90a9e862c193f309c0a77652ca14b87095516266f",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 47,
+      "skill_occurrences": 3255,
+      "target_sha256": "5964d993bf67588aa256cc6cbf8ea2d0d725adc145fe9561cc259baad2a0300f",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 48,
+      "skill_occurrences": 3276,
+      "target_sha256": "e7e0f189aa244bfff56ac1a4ae2586714c29898a73d734b84298bf647ec24054",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 49,
+      "skill_occurrences": 2936,
+      "target_sha256": "a74ef5bcc82fa9cd4f7acda1248b30fb8e7bc1390b6e6ca452c2b6573d2a728b",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 50,
+      "skill_occurrences": 3283,
+      "target_sha256": "588425d7886481a99d5c661ed87e01b976ad0c59407fe1e381137d6a9f9912f0",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 51,
+      "skill_occurrences": 3128,
+      "target_sha256": "517ff07cc9de0f1d5eb9856f7fc9aa6a66b589ca5e64fd9e6ca5b5d5bbd36e13",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 52,
+      "skill_occurrences": 3227,
+      "target_sha256": "d4cc97b61fe78eb23bb02464cd77dd4016289ff0494d5be123a604a39ab23e28",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 53,
+      "skill_occurrences": 3276,
+      "target_sha256": "2e15eb4e3048afa0c32ef560d826d509c8fa71d6d5fc30249413be2d78236efe",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 300,
+      "shard": 54,
+      "skill_occurrences": 3334,
+      "target_sha256": "5da2ae0c897bb162e6f273ce762b5ff36b732cabbac77e6b7514585d19d24cb5",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 55,
+      "skill_occurrences": 3148,
+      "target_sha256": "703b42a6a612127b1a37f1012efefc9993733724c3847ceb7119bdd41cdee550",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 56,
+      "skill_occurrences": 2969,
+      "target_sha256": "87f58e5732ff74224c3c7b0f361c537c956b1dc2456a0472770b04ae36ad6458",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 57,
+      "skill_occurrences": 3107,
+      "target_sha256": "c31609d1385c996bdcde3fb3eaf01fb843869eef925fd1076e131b7f4cb8acc6",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 301,
+      "shard": 58,
+      "skill_occurrences": 3270,
+      "target_sha256": "32924f10c25fb9463fee8b30fe331ed01a7ab4451c5c2c1ddb9fe53dc19213ee",
+      "targets": 301
+    },
+    {
+      "directories": 4426,
+      "repositories": 302,
+      "shard": 59,
+      "skill_occurrences": 2958,
+      "target_sha256": "37f97f11c2bdd56a923eacf24071d44c46e837fce045165442431cb09b1d561e",
+      "targets": 302
+    },
+    {
+      "directories": 4426,
+      "repositories": 302,
+      "shard": 60,
+      "skill_occurrences": 3255,
+      "target_sha256": "35fa8c140ab3d68885359e1455b76cc34a27c44438e8066abb640f79c641f6de",
+      "targets": 302
+    },
+    {
+      "directories": 4426,
+      "repositories": 302,
+      "shard": 61,
+      "skill_occurrences": 3296,
+      "target_sha256": "9fabdbd17f9d64501b5905c222b4e8809a4ee9f6af0c42c9d06d147b91105dbb",
+      "targets": 302
+    },
+    {
+      "directories": 4426,
+      "repositories": 302,
+      "shard": 62,
+      "skill_occurrences": 3303,
+      "target_sha256": "e8794a02eaf27f14100f3a72c322e6ebc91225380ed206797573c63d25d0c833",
+      "targets": 302
+    },
+    {
+      "directories": 4466,
+      "repositories": 298,
+      "shard": 63,
+      "skill_occurrences": 3270,
+      "target_sha256": "5b55c7cb69a2a2d4e90006aaab6969342d00cf8ac2209d6e9f6dc8103d916ad2",
+      "targets": 298
+    }
+  ],
+  "cohort_uncompressed_sha256": "fd74c0db821e9d5de3b0fc6cd2db3f289a049bc792efd485c1a5eb67b72c1a53",
+  "directory_targets": 19242,
+  "exclusions": {
+    "baseline_complete": 140339,
+    "holder_only": 526,
+    "unknown": 2,
+    "unverified": 82722
+  },
+  "governing_directories": 283616,
+  "max_directories_per_target": 1000,
+  "repositories": 19179,
+  "seed_cache": [
+    {
+      "archive_bytes": 47036,
+      "archive_sha256": "b27f09b8ceeaa70ad9a9e026dc59133df62fc7d87f4efc88cfc862f66dcf0272",
+      "blob_count": 28,
+      "scan_count": 3,
+      "shard": 0
+    },
+    {
+      "archive_bytes": 78926,
+      "archive_sha256": "c640818c2d740864095bc9fcfc1b5d362e840d2eba777166e77eb202884fc6d4",
+      "blob_count": 30,
+      "scan_count": 5,
+      "shard": 1
+    },
+    {
+      "archive_bytes": 109296,
+      "archive_sha256": "6d667445b335bdfbe1f6631b36fda47d56c04587e32e1c9f1e17e7473434d366",
+      "blob_count": 203,
+      "scan_count": 2,
+      "shard": 2
+    },
+    {
+      "archive_bytes": 69453,
+      "archive_sha256": "f2977aa5651da6a9955c2b1a1c4f5edf337c29d08a29239dd061ecdeebb94b77",
+      "blob_count": 28,
+      "scan_count": 1,
+      "shard": 3
+    },
+    {
+      "archive_bytes": 63349,
+      "archive_sha256": "4df574f4414cca462c9b8d851f4fd2fcbf2a8946bc99a03da94348430b7c1d8f",
+      "blob_count": 34,
+      "scan_count": 8,
+      "shard": 4
+    },
+    {
+      "archive_bytes": 105109,
+      "archive_sha256": "7a902b5381ca65733ea0c6ac4245c850a6c2f7061f98165700b6eedf37b3b2de",
+      "blob_count": 59,
+      "scan_count": 2,
+      "shard": 5
+    },
+    {
+      "archive_bytes": 77725,
+      "archive_sha256": "45bd933da03fe0eb339265aed452cee0d8703cb789dbc6ba5a0d032bf4e46ce1",
+      "blob_count": 38,
+      "scan_count": 6,
+      "shard": 6
+    },
+    {
+      "archive_bytes": 36083,
+      "archive_sha256": "2ce1f25ea7d415008f0c03976feb8afcb2a97450287d8ba5da3f9aa40bc796b9",
+      "blob_count": 44,
+      "scan_count": 2,
+      "shard": 7
+    },
+    {
+      "archive_bytes": 69648,
+      "archive_sha256": "5f63680e176d3c7b6bebeeadcdb2a8a80d6b37e8b2891dfbd8bf1934839b00d7",
+      "blob_count": 35,
+      "scan_count": 3,
+      "shard": 8
+    },
+    {
+      "archive_bytes": 82229,
+      "archive_sha256": "761a52d1c7dca1bfd8953d9e9049cc1296b3dae3e5781cd6e5397d3e5dcd97ef",
+      "blob_count": 48,
+      "scan_count": 12,
+      "shard": 9
+    },
+    {
+      "archive_bytes": 111113,
+      "archive_sha256": "0ec3a1421777bc3ed70f48418fdccae64f355b38d7d6ed6f3f6d48ea044f867e",
+      "blob_count": 61,
+      "scan_count": 8,
+      "shard": 10
+    },
+    {
+      "archive_bytes": 139745,
+      "archive_sha256": "cffc155bf7bceca02ea2b23fee150aabeb4692db4b4264ad8f6c557a4580c8c4",
+      "blob_count": 89,
+      "scan_count": 8,
+      "shard": 11
+    },
+    {
+      "archive_bytes": 94840,
+      "archive_sha256": "7bbb064449c28ff27f5329d924240a6897db1091d1ede97e8fac2f2836f02cc4",
+      "blob_count": 162,
+      "scan_count": 4,
+      "shard": 12
+    },
+    {
+      "archive_bytes": 78630,
+      "archive_sha256": "729dadea54cb39bfd5bb6d587063d2e269477e4fa4bc2a85f1ee7c8a5f4adf26",
+      "blob_count": 37,
+      "scan_count": 3,
+      "shard": 13
+    },
+    {
+      "archive_bytes": 59858,
+      "archive_sha256": "f0b828880bc45ad2ec0a6ebe25edf236c36ac28273a8dc2c3526ad6fd9ee202f",
+      "blob_count": 36,
+      "scan_count": 9,
+      "shard": 14
+    },
+    {
+      "archive_bytes": 102369,
+      "archive_sha256": "6e9300cc56c355fc6a97734711f02058c390bb879ab43d6f2b1f3bff93f54908",
+      "blob_count": 43,
+      "scan_count": 13,
+      "shard": 15
+    },
+    {
+      "archive_bytes": 74696,
+      "archive_sha256": "1cc863f192aea0d5b7150a6f53b4bf29c72a5a0ccc6d28465c9d1b80aa3544e1",
+      "blob_count": 55,
+      "scan_count": 6,
+      "shard": 16
+    },
+    {
+      "archive_bytes": 244151,
+      "archive_sha256": "1f39dd18c5eeb2f3a095b3294ab235c18c8df49e0efd0eb60f9d20188f3966b0",
+      "blob_count": 136,
+      "scan_count": 17,
+      "shard": 17
+    },
+    {
+      "archive_bytes": 65973,
+      "archive_sha256": "b4cace5298afe1e2f980a29f1a1616ab5a4ba92e15392b53db13466382c2c3fc",
+      "blob_count": 38,
+      "scan_count": 5,
+      "shard": 18
+    },
+    {
+      "archive_bytes": 65253,
+      "archive_sha256": "926b06208c33122534b1c951f6a3df12f7e7b0134dcd8424d8163331fb9099b7",
+      "blob_count": 36,
+      "scan_count": 3,
+      "shard": 19
+    },
+    {
+      "archive_bytes": 65552,
+      "archive_sha256": "6189a6d3514226478d76ddeb935e946030f658b125cd61e7751c69f286a26714",
+      "blob_count": 32,
+      "scan_count": 5,
+      "shard": 20
+    },
+    {
+      "archive_bytes": 115842,
+      "archive_sha256": "a3766a246defbd043cc9e57b2b7bed417a4bbdb92006a9803d77c293b124c17b",
+      "blob_count": 66,
+      "scan_count": 4,
+      "shard": 21
+    },
+    {
+      "archive_bytes": 95006,
+      "archive_sha256": "7d242bf27af28c8b1a973f306b9e5eb8f56c5a212425b03a572f8d2e308faf1c",
+      "blob_count": 74,
+      "scan_count": 1,
+      "shard": 22
+    },
+    {
+      "archive_bytes": 70163,
+      "archive_sha256": "85f5946021f549e70f6a47aeb27d61ff36a5646143841b447abca92a3b983586",
+      "blob_count": 26,
+      "scan_count": 4,
+      "shard": 23
+    },
+    {
+      "archive_bytes": 70567,
+      "archive_sha256": "ff5b3512d9824e4d57d9f888f4b40ffda2f7a24b97676e80c720801dcce76a08",
+      "blob_count": 24,
+      "scan_count": 4,
+      "shard": 24
+    },
+    {
+      "archive_bytes": 72588,
+      "archive_sha256": "fe760275be0f76593dca6b232e9fb93669b37d63e3cb3e26b58fe3dbbc8ed985",
+      "blob_count": 51,
+      "scan_count": 1,
+      "shard": 25
+    },
+    {
+      "archive_bytes": 61522,
+      "archive_sha256": "d2ab3a8265c1a6264c0edfaa6ec8111370678c6b5d62809845500c1f76a54b5c",
+      "blob_count": 37,
+      "scan_count": 5,
+      "shard": 26
+    },
+    {
+      "archive_bytes": 52359,
+      "archive_sha256": "f9f55537b9b87c51c8e57ed270c34eefa2b5ab7a8a2bfee0140822eb990f7ea4",
+      "blob_count": 29,
+      "scan_count": 2,
+      "shard": 27
+    },
+    {
+      "archive_bytes": 49973,
+      "archive_sha256": "fc94695c3d660c34b28e5ab8ee631013007d1503eb3b9b77cf04d86db3fc10cf",
+      "blob_count": 28,
+      "scan_count": 5,
+      "shard": 28
+    },
+    {
+      "archive_bytes": 47541,
+      "archive_sha256": "ff92efd7cab962c099ba16952242cbbe66421805474790a2f80c689b10aceef8",
+      "blob_count": 36,
+      "scan_count": 0,
+      "shard": 29
+    },
+    {
+      "archive_bytes": 66465,
+      "archive_sha256": "793ee371e3d9ddbeba45160dc4400d3eb357ec938b74c074d426e96fba38bcff",
+      "blob_count": 35,
+      "scan_count": 2,
+      "shard": 30
+    },
+    {
+      "archive_bytes": 38246,
+      "archive_sha256": "492f6e27512ee81bdba93fa08db862e41fd33788f15f54fae1eacc17965d0c71",
+      "blob_count": 29,
+      "scan_count": 1,
+      "shard": 31
+    },
+    {
+      "archive_bytes": 145395,
+      "archive_sha256": "bd311b3af82d5229b60ec234e4aa18c5ea1a0271ad5d05de0bafdbb37de32e2f",
+      "blob_count": 226,
+      "scan_count": 4,
+      "shard": 32
+    },
+    {
+      "archive_bytes": 96573,
+      "archive_sha256": "043d4e93c11c10ae8c42bbf989ef3932494f0fb5dfadb795c2db4ec62b66082e",
+      "blob_count": 80,
+      "scan_count": 17,
+      "shard": 33
+    },
+    {
+      "archive_bytes": 53840,
+      "archive_sha256": "007d7c5d0b80d7add987c932588f1846ab6152770cefa01e4d9d09e5b1db46f8",
+      "blob_count": 38,
+      "scan_count": 13,
+      "shard": 34
+    },
+    {
+      "archive_bytes": 86846,
+      "archive_sha256": "fc3134eb1ee648f1c48edf15133c6dbd3b06682fdd08cbc89fbf31196907b8dc",
+      "blob_count": 57,
+      "scan_count": 3,
+      "shard": 35
+    },
+    {
+      "archive_bytes": 64424,
+      "archive_sha256": "ca2b77ed076d31ae39cde20db43769e697bf04269ebb0b54a78e08cef953965e",
+      "blob_count": 34,
+      "scan_count": 3,
+      "shard": 36
+    },
+    {
+      "archive_bytes": 69858,
+      "archive_sha256": "f53e321f19ed103a5343d8dee761a601cfd1d7b7ed37b6d1f6810525a3c24a2c",
+      "blob_count": 35,
+      "scan_count": 1,
+      "shard": 37
+    },
+    {
+      "archive_bytes": 62678,
+      "archive_sha256": "faa97f7f36da6102f3ae9de853ed20db4b2e22e94dfd5f1d04982b7736980a09",
+      "blob_count": 32,
+      "scan_count": 5,
+      "shard": 38
+    },
+    {
+      "archive_bytes": 55755,
+      "archive_sha256": "b1c644755383052c2c644e513fbf1c4f6eb117dbe30ce759f15e44a428933583",
+      "blob_count": 30,
+      "scan_count": 8,
+      "shard": 39
+    },
+    {
+      "archive_bytes": 59993,
+      "archive_sha256": "165f3780fdacbe0b3d92f772948302451356b638bfd344599ecd24615efaacf8",
+      "blob_count": 40,
+      "scan_count": 7,
+      "shard": 40
+    },
+    {
+      "archive_bytes": 73039,
+      "archive_sha256": "590b97ee382a41a254ddca979eee995e48b2735d4d13d84cc74ecadfcefcf389",
+      "blob_count": 35,
+      "scan_count": 4,
+      "shard": 41
+    },
+    {
+      "archive_bytes": 29454,
+      "archive_sha256": "a18cf0dcf8aa911dcac681986401230a75f9b717ab5cfd6e8c56e851bb852d31",
+      "blob_count": 20,
+      "scan_count": 1,
+      "shard": 42
+    },
+    {
+      "archive_bytes": 65243,
+      "archive_sha256": "d0bf808d4ff2e119d77cb3f60cad27da2cd4d544a003c4ba72cba078fa9c2da2",
+      "blob_count": 37,
+      "scan_count": 7,
+      "shard": 43
+    },
+    {
+      "archive_bytes": 63191,
+      "archive_sha256": "f0d9b1e9254001b7a5dbf2c83067799b82a29b0683a3048ce023b1bc53108fdc",
+      "blob_count": 39,
+      "scan_count": 7,
+      "shard": 44
+    },
+    {
+      "archive_bytes": 61179,
+      "archive_sha256": "f5d1c31679b48157908c72ca729fc1158a54b8b0469edebe2fc7123ed24caebf",
+      "blob_count": 35,
+      "scan_count": 5,
+      "shard": 45
+    },
+    {
+      "archive_bytes": 53169,
+      "archive_sha256": "f81521fbaa2e3f66bb19639340a4f3f989bf99b3ed751f615b4cd1fde3beada4",
+      "blob_count": 34,
+      "scan_count": 4,
+      "shard": 46
+    },
+    {
+      "archive_bytes": 23519,
+      "archive_sha256": "461eb768b1b06d4944625942e4cde68a35ec91ca777bd870486b67045d65a01b",
+      "blob_count": 21,
+      "scan_count": 6,
+      "shard": 47
+    },
+    {
+      "archive_bytes": 82301,
+      "archive_sha256": "9ea43817bd25379c5336e3976109637f53eb9d47262c01f8f38798197945315b",
+      "blob_count": 38,
+      "scan_count": 7,
+      "shard": 48
+    },
+    {
+      "archive_bytes": 59065,
+      "archive_sha256": "d649c7ede65ee0a252008ea7942d4d5f3b52b1293a969e05fc455daeef2a6341",
+      "blob_count": 22,
+      "scan_count": 7,
+      "shard": 49
+    },
+    {
+      "archive_bytes": 44189,
+      "archive_sha256": "5bc9e006644535cf8fa8d4ece4ace67f5699fc1e23edc7a1f7a21d3d85ab21ea",
+      "blob_count": 28,
+      "scan_count": 4,
+      "shard": 50
+    },
+    {
+      "archive_bytes": 68837,
+      "archive_sha256": "be5f82b23a9aa46a624c960d057672e657575355f9af170ca213ff92c0b7f26f",
+      "blob_count": 38,
+      "scan_count": 8,
+      "shard": 51
+    },
+    {
+      "archive_bytes": 115666,
+      "archive_sha256": "5eb096824f03b1acb83612db2d9ea243a0750b622b5b7827fc37feb5a7b7c599",
+      "blob_count": 47,
+      "scan_count": 5,
+      "shard": 52
+    },
+    {
+      "archive_bytes": 55534,
+      "archive_sha256": "777c8d2dd12a31e75d762f48b35fb70aa6a5ce77b4e2c852d90d245a4e9cc0b7",
+      "blob_count": 33,
+      "scan_count": 4,
+      "shard": 53
+    },
+    {
+      "archive_bytes": 70462,
+      "archive_sha256": "acc53ee150bbad607c0cd54ec0f96fc1dc78aad6df5b49f3d8fe6d29bef5be5f",
+      "blob_count": 32,
+      "scan_count": 3,
+      "shard": 54
+    },
+    {
+      "archive_bytes": 37627,
+      "archive_sha256": "2d81a167763716ed16e7a0a5fb5b37dfcb6f07c2cec47f5e467ab432b760a991",
+      "blob_count": 20,
+      "scan_count": 4,
+      "shard": 55
+    },
+    {
+      "archive_bytes": 58679,
+      "archive_sha256": "698dc49ecedd3414e5bddccb48898c7701195ee19a74fc233f5662dae0dbaed0",
+      "blob_count": 33,
+      "scan_count": 4,
+      "shard": 56
+    },
+    {
+      "archive_bytes": 75818,
+      "archive_sha256": "d34c2b61969854fcb032dff910d44d3d678fc082513f2e82b9ffb5cd674fc5a8",
+      "blob_count": 34,
+      "scan_count": 4,
+      "shard": 57
+    },
+    {
+      "archive_bytes": 79306,
+      "archive_sha256": "007162c57ad3d147cb34367a77fca5767229e6b72ee5914194d67fa0e7fb1b41",
+      "blob_count": 85,
+      "scan_count": 0,
+      "shard": 58
+    },
+    {
+      "archive_bytes": 121121,
+      "archive_sha256": "d0c64f70c8d83f4d0fb647885c943c2f5486fb21804279ff80b774b970377441",
+      "blob_count": 70,
+      "scan_count": 32,
+      "shard": 59
+    },
+    {
+      "archive_bytes": 52287,
+      "archive_sha256": "8a03ac4c93853975b568b44b65b8752a084a49b0ffcc8a73e14012760a87c4ac",
+      "blob_count": 32,
+      "scan_count": 3,
+      "shard": 60
+    },
+    {
+      "archive_bytes": 80194,
+      "archive_sha256": "5cadc059a2ac03297c794af034412071ec7b49bd400aa626f07da98fb4df282d",
+      "blob_count": 47,
+      "scan_count": 12,
+      "shard": 61
+    },
+    {
+      "archive_bytes": 57313,
+      "archive_sha256": "ee323b9b1b3fd8507d17f8ec8deec68b562bcb4c7f83ef1f73cd5d2824c88137",
+      "blob_count": 35,
+      "scan_count": 2,
+      "shard": 62
+    },
+    {
+      "archive_bytes": 58474,
+      "archive_sha256": "c4cc88982481b74ba704dda03482a2f6be245c8220eb837f39f3ee43eea32b9b",
+      "blob_count": 29,
+      "scan_count": 1,
+      "shard": 63
+    }
+  ],
+  "seed_rejected": {
+    "artifact_siblings_blob_mismatch": 9
+  },
+  "seed_scope": "Verified bytes only; path/commit membership must be verified again in cloud before reuse.",
+  "shards": 64,
+  "skill_occurrences": 204504,
+  "source_ledger_sha256": "2b99040e360555ea6a8deb4df6fb66f4e6887b8a54c8c8283b639e3a013cfa1e"
+}
